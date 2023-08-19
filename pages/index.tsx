@@ -1,35 +1,27 @@
-import Head from 'next/head';
-import Image from 'next/image';
-import { Inter } from 'next/font/google';
-import styles from '../styles/header.module.scss';
-import Header from '../components/common/Header';
-import { Fragment } from 'react';
-import { AiOutlineShareAlt } from 'react-icons/ai';
-import { VscFeedback } from 'react-icons/vsc';
-import Link from 'next/link';
-import MapSection from '@components/home/MapSection';
+import HomeHeader from 'components/home/Header';
+import MapSection from 'components/home/MapSection';
+import { Store } from 'types/store';
+import { NextPage } from 'next';
+import useStores from 'hooks/useStores';
 
-const inter = Inter({ subsets: ['latin'] });
+import { Fragment, useEffect } from 'react';
 
-export default function Home() {
+interface Props {
+  stores: Store[];
+}
+
+const Home: NextPage<Props> = ({ stores }) => {
+  console.log(stores);
+
+  const { initializeStores } = useStores();
+
+  useEffect(() => {
+    initializeStores(stores);
+  }, [initializeStores, stores]);
+
   return (
     <Fragment>
-      <Header
-        rightElements={[
-          <button
-            onClick={() => {
-              alert('복사');
-            }}
-            className={styles.box}
-            key="button"
-          >
-            <AiOutlineShareAlt />
-          </button>,
-          <Link href="/feedback" className={styles.box} key="link">
-            <VscFeedback />
-          </Link>,
-        ]}
-      />
+      <HomeHeader />
       <main
         style={{
           position: 'relative',
@@ -42,4 +34,14 @@ export default function Home() {
       </main>
     </Fragment>
   );
+};
+export default Home;
+
+export async function getStaticProps() {
+  const stores = (await import('../public/stores.json')).default;
+
+  return {
+    props: { stores },
+    revalidate: 60 * 60,
+  };
 }

@@ -1,9 +1,10 @@
 import React, { useEffect, useRef } from 'react';
+import { INITIAL_CENTER, INITIAL_ZOOM } from 'hooks/useMap';
 import Script from 'next/script';
-import { Coordinates } from '../../types/store';
-import { NaverMap } from '../../types/map';
-import { INITIAL_CENTER, INITIAL_ZOOM } from '../../hooks/useMap';
-import styles from '../../styles/map.module.scss';
+import { NaverMap } from 'types/map';
+import { Coordinates } from 'types/store';
+
+import styles from 'styles/map.module.scss';
 
 type Props = {
   mapId?: string;
@@ -51,7 +52,7 @@ const Map = ({
   return (
     <>
       <Script
-        strategy="afterInteractive"
+        strategy="afterInteractive" //afterInteractive 는 페이지가 바로 뜨자마자 빠르게 보여지는 경우. 아니면 LazyLoad
         type="text/javascript"
         src={`https://openapi.map.naver.com/openapi/v3/maps.js?ncpClientId=${process.env.NEXT_PUBLIC_NCP_CLIENT_ID}`}
         // onReady 사용하는 이유 : 언마운트 되면 인스턴스 파기해서
