@@ -1,7 +1,9 @@
 import React from 'react';
+import { MdFoodBank } from 'react-icons/md';
 import Link from 'next/link';
+
 import styles from '../../styles/header.module.scss';
-import { MdFoodBank } from 'react-icons/Md';
+
 interface Props {
   onClickLogo?: () => void;
   rightElements?: React.ReactElement[];

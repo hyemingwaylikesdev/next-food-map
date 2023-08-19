@@ -8,7 +8,7 @@ function useInput(
 ): [
   string,
   (e: ChangeEventType) => void,
-  React.Dispatch<React.SetStateAction<string>>
+  React.Dispatch<React.SetStateAction<string>>,
 ] {
   const [value, setValue] = useState(initialValue);
 
