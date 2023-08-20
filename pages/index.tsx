@@ -1,10 +1,10 @@
+import { Fragment, useEffect } from 'react';
+import useStores from 'hooks/useStores';
+import { NextPage } from 'next';
+import { Store } from 'types/store';
+
 import HomeHeader from 'components/home/Header';
 import MapSection from 'components/home/MapSection';
-import { Store } from 'types/store';
-import { NextPage } from 'next';
-import useStores from 'hooks/useStores';
-
-import { Fragment, useEffect } from 'react';
 
 interface Props {
   stores: Store[];
