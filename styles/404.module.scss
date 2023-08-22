@@ -1,0 +1,27 @@
+.cute404Container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  text-align: center;
+  background: linear-gradient(120deg, #3f92b7 0%, #274472 100%);
+  color: #e3eff9;
+}
+
+.heartIcon {
+  font-size: 48px;
+  margin-top: 20px;
+  animation: bounce 1s infinite;
+  color: #bfd7ed;
+}
+
+@keyframes bounce {
+  0%,
+  100% {
+    transform: translateY(0);
+  }
+  50% {
+    transform: translateY(-20px);
+  }
+}
