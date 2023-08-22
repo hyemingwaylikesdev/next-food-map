@@ -28,7 +28,7 @@ $section-padding-top: 8px;
     transform: translateY(calc(100% - 160px));
   }
   &.expanded {
-    transform: translateY(0);
+    transform: translateY(0); //화면 가득 채ㅁ
   }
 }
 
@@ -51,10 +51,11 @@ $section-padding-top: 8px;
       cursor: not-allowed;
     }
     &.expanded {
-      transform: rotate(180deg);
+      transform: rotate(180deg); //when detail ui expanded -> reverse
     }
 
     @keyframes bounce {
+      //animation add
       from {
         transform: translateY(0);
       }

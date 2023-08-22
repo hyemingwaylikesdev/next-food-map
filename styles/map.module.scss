@@ -1,4 +1,4 @@
-@use './detail.module';
+@use './detail.module'; //use를 사용해서 변수에 접근가능 $header-height, $section-padding-top
 
 .map {
   width: 100%;

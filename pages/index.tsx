@@ -1,10 +1,11 @@
+import { Fragment, useEffect } from 'react';
+import DetailSection from '@components/home/DetailSection';
+import useStores from 'hooks/useStores';
+import { NextPage } from 'next';
+import { Store } from 'types/store';
+
 import HomeHeader from 'components/home/Header';
 import MapSection from 'components/home/MapSection';
-import { Store } from 'types/store';
-import { NextPage } from 'next';
-import useStores from 'hooks/useStores';
-
-import { Fragment, useEffect } from 'react';
 
 interface Props {
   stores: Store[];
@@ -27,10 +28,11 @@ const Home: NextPage<Props> = ({ stores }) => {
           position: 'relative',
           width: '100%',
           height: '100%',
-          overflow: 'hidden',
+          overflow: 'hidden', //스크롤 안생기게
         }}
       >
         <MapSection />
+        <DetailSection />
       </main>
     </Fragment>
   );
