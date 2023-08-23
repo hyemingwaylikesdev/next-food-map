@@ -1,16 +1,38 @@
+import DetailContent from '@components/home/DetailContent';
+import DetailHeader from '@components/home/DetailHeader';
+import useCurrentStore from 'hooks/useCurrentStore';
 import { GetStaticPaths, GetStaticProps, NextPage } from 'next';
+import { useRouter } from 'next/router';
 import type { Store } from 'types/store';
 
+import styles from '/styles/detail.module.scss';
 interface Props {
   store: Store;
 }
 
 const StoreDetail: NextPage<Props> = ({ store }) => {
-  //   const router = useRouter();
+  const router = useRouter();
+  const { setCurrentStore } = useCurrentStore();
+
+  const goToMap = () => {
+    setCurrentStore(store);
+    router.push(`
+    /?zoom=15&lat=${store.coordinates[0]}&lng=${store.coordinates[1]}
+  `);
+  };
   //   if (router.isFallback) {
   //     return <>loading</>; //로딩 페이지
   //   } //fallback: true 일때
-  return <>{store.name}</>;
+  return (
+    <div className={`${styles.detailSection} ${styles.expanded}`}>
+      <DetailHeader
+        currentStore={store}
+        expanded={true}
+        onClickArrow={goToMap}
+      />
+      <DetailContent currentStore={store} expanded={true} />
+    </div>
+  );
 };
 export default StoreDetail;
 
