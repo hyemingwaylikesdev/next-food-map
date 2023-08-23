@@ -1,5 +1,4 @@
 /** https://nextjs.org/docs/advanced-features/custom-error-page#404-page */
-import { FaSmile } from 'react-icons/fa';
 import { GiHeartInside } from 'react-icons/gi';
 
 import styles from 'styles/404.module.scss';
