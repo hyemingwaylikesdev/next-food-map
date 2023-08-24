@@ -1,5 +1,5 @@
 export default {
-  titleTemplate: '%s - 멍멍이와 식사를',
+  titleTemplate: '몽식 - %s',
   openGraph: {
     type: 'website',
     site_name: '멍멍이와 식사를',
@@ -16,7 +16,7 @@ export default {
   additionalMetaTags: [
     {
       name: 'naver-site-verification',
-      content: '7bd885b384be0f905aad30d00607e0481d4be908',
+      content: '389dffd649f57aed853a9a97a6df04e099dcca8e',
     },
     {
       name: 'google-site-verification',

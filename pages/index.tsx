@@ -21,7 +21,7 @@ const Home: NextPage<Props> = ({ stores }) => {
   return (
     <Fragment>
       <NextSeo
-        title="멍멍이와 식사를"
+        title="반려동물 동반 식당, 카페 지도"
         description="반려동물과 함께할 수 있는 식당을 소개해드려요🙌"
       />
       <HomeHeader />
