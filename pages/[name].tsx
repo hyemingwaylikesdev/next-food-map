@@ -3,6 +3,7 @@ import DetailHeader from '@components/home/DetailHeader';
 import useCurrentStore from 'hooks/useCurrentStore';
 import { GetStaticPaths, GetStaticProps, NextPage } from 'next';
 import { useRouter } from 'next/router';
+import { NextSeo } from 'next-seo';
 import type { Store } from 'types/store';
 
 import styles from '/styles/detail.module.scss';
@@ -24,14 +25,21 @@ const StoreDetail: NextPage<Props> = ({ store }) => {
   //     return <>loading</>; //로딩 페이지
   //   } //fallback: true 일때
   return (
-    <div className={`${styles.detailSection} ${styles.expanded}`}>
-      <DetailHeader
-        currentStore={store}
-        expanded={true}
-        onClickArrow={goToMap}
+    <>
+      <NextSeo
+        title={store.name}
+        description="상세 페이지입니다"
+        canonical={`https://mong-sik-hyemingwaylikesdev.vercel.app/feedback${store.name}`}
       />
-      <DetailContent currentStore={store} expanded={true} />
-    </div>
+      <div className={`${styles.detailSection} ${styles.expanded}`}>
+        <DetailHeader
+          currentStore={store}
+          expanded={true}
+          onClickArrow={goToMap}
+        />
+        <DetailContent currentStore={store} expanded={true} />
+      </div>
+    </>
   );
 };
 export default StoreDetail;
