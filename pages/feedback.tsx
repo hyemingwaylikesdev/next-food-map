@@ -9,6 +9,7 @@ export default function Home() {
       <NextSeo
         title="추가 의견"
         description="추천해주시고 싶은 가게를 알려주세요"
+        canonical="https://mong-sik-hyemingwaylikesdev.vercel.app/feedback"
       />
       <Header />
     </Fragment>
