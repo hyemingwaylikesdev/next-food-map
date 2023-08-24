@@ -43,11 +43,11 @@ const Map = ({
   };
 
   //맵 컨포넌트 언마운트되면 인스턴스 파기
-  useEffect(() => {
-    return () => {
-      mapRef.current?.destroy();
-    };
-  }, []);
+  // useEffect(() => {
+  //   return () => {
+  //     mapRef.current?.destroy();
+  //   };
+  // }, []);
 
   return (
     <>
