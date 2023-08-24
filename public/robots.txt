@@ -3,7 +3,7 @@ User-agent: *
 Allow: /
 
 # Host
-Host: https://inflearn-nextjs.vercel.app
+Host: https://mong-sik-hyemingwaylikesdev.vercel.app
 
 # Sitemaps
-Sitemap: https://inflearn-nextjs.vercel.app/sitemap.xml
+Sitemap: https://mong-sik-hyemingwaylikesdev.vercel.app/sitemap.xml
