@@ -1,898 +1,2461 @@
 [
   {
-    "nid": 921173728,
-    "season": 1,
-    "episode": 1,
-    "characteristic": "마트식당",
-    "name": "마굿간편한식당",
-    "coordinates": [37.6632778, 127.1184593],
-    "foodKind": "육류,고기요리",
-    "address": "경기 남양주시 별내3로 285 현대아이파크 상가 101호",
-    "phone": "031-529-6614",
+    "nid": 1822028720,
+    "characteristic": "카페소풍",
+    "name": "카페소풍",
+    "coordinates": [37.506914, 126.7493832],
+    "foodKind": "음식점",
+    "address": "경기도 부천시 길주로77번길 19-27 110호",
+    "phone": "0507-1484-9798",
     "images": [
-      "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20200806_209%2F1596715795514pShOx_JPEG%2F10RMJ6Jg_vNVXO62NBXxZOwP.jpg",
-      "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20190128_234%2F15486734277742miJS_JPEG%2FEj2MjgQQ75Vb7dbMnspaYImb.jpg",
-      "https://search.pstatic.net/common/?autoRotate=true&type=w278_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20190123_170%2F15482414191151X1te_JPEG%2FUGCarY_iUhKY_L4DBCnfv8TJ.jpg"
-    ],
-    "description": "마트가격으로 모든 상품을 구매하여 바로 옆 식당에서 먹는다는 상상을 해보셨습니까? 돼지고기 소고기를 비롯하여 햄, 베이컨, 오리 훈제는 물론 마트에서 판매하는 모든상품을 조리가 가능한 정말 간편한 식당입니다.",
-    "menus": [{ "name": "정육점 모든상품 마트가격 판매", "price": "변동" }]
-  },
-  {
-    "nid": 1126233571,
-    "season": 1,
-    "episode": 3,
-    "characteristic": "로봇치킨",
-    "name": "롸버트치킨 강남1호기",
-    "coordinates": [37.50948837278171, 127.03812595602298],
-    "foodKind": "치킨,닭강정",
-    "address": "서울 강남구 언주로 604 아크로힐스논현 상가 103호",
-    "phone": "02-543-0557",
-    "images": [
-      "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20200103_286%2F1578039052981HylC5_JPEG%2Fimage.jpg",
-      "https://search.pstatic.net/common/?autoRotate=true&type=w278_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20200925_4%2F1600998675292TD3MG_JPEG%2FjJeR0u2McrGIIZL-CjSfTZOz.jpg",
-      "https://search.pstatic.net/common/?autoRotate=true&type=w278_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20200130_253%2F1580370364620GPRJL_JPEG%2FVFd9FkblIC7AC5qwdanYqa6O.JPG.jpg"
-    ],
-    "description": "치킨로봇 롸버트가 조리하는 롸버트치킨 강남 1호기 입니다. 롸버트치킨은 로봇이 정확하고 균일하게 조리한 맛있는 치킨을 배달/테이크아웃으로 판매합니다.",
-    "menus": [
-      { "name": "롸버트 후라이드", "price": "16,900원" },
-      { "name": "후추를 후추후추치킨", "price": "17,900원" },
-      { "name": "롸버트 양념치킨", "price": "17,900원" },
-      { "name": "롸버트 후라이드 + 첫사랑 IPA", "price": "19,900원" },
-      { "name": "(반반) 양념/후추후추 + 옥수수 튀김", "price": "20,800원" }
-    ]
-  },
-  {
-    "nid": 18708805,
-    "season": 1,
-    "episode": 3,
-    "characteristic": "초코치킨",
-    "name": "동네아저씨치킨",
-    "coordinates": [37.4792346, 126.9598625],
-    "foodKind": "치킨,닭강정",
-    "address": "서울 관악구 행운2길 16 강수빌딩",
-    "phone": "02-872-0029",
-    "images": [
-      "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20210816_34%2F1629114919941flul5_JPEG%2FRRBhcOMY1ZF8ZRXvBBbyWVII.jpg",
-      "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20210816_109%2F1629113687181npaK6_JPEG%2FyXlMVc6kCoSFTGGlgkYURKac.jpg",
-      "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20200806_187%2F15966849833366LMIG_JPEG%2FIt7I0K1BSsmGuXSGiGqgYmpM.jpeg.jpg"
-    ],
-    "description": "낙성대 양이 너무 많은 치킨",
-    "menus": [
-      { "name": "충성치(아저씨충성치킨)", "price": "29,500원" },
-      { "name": "초코치킨", "price": "26,000원" },
-      { "name": "치킨& 친구들", "price": "19,000원" },
-      { "name": "치즈범벅", "price": "25,000원" },
-      { "name": "아정차(아저씨정성치킨)", "price": "29,500원" },
-      { "name": "아사치(아저씨사랑치킨)", "price": "29,500원" },
-      { "name": "클레이지 초코치킨", "price": "30,000원" },
-      { "name": "감자튀김", "price": "10,000원" },
-      { "name": "감자&새우튀김", "price": "1,400원" },
-      { "name": "왕새우튀김", "price": "20,000원" }
-    ]
-  },
-  {
-    "nid": 1537515621,
-    "season": 1,
-    "episode": 4,
-    "characteristic": "고대페르시아운동",
-    "name": "소마앤바디 힘의집",
-    "coordinates": [37.5545297, 126.937938],
-    "foodKind": "복합문화공간",
-    "address": "서울 마포구 신촌로20길 12 102호",
-    "phone": "02-6080-8200",
-    "images": [
-      "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20191224_125%2F1577162343875OaExH_JPEG%2FUnF_incH-uaFo63bYR49WqCq.jpg",
-      "https://search.pstatic.net/common/?autoRotate=true&type=w278_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20191224_206%2F1577162343690KAsHp_JPEG%2Ft-2zSnhsZyeph5zSYZEqaG5L.jpg",
-      "https://search.pstatic.net/common/?autoRotate=true&type=w278_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20191224_116%2F1577162344950J56Ay_JPEG%2Fv0rlolVAGQI2LyVtjMMeE37p.jpg"
-    ],
-    "description": "힘의집은 몸과 마음의 힘을 기르는 공간입니다. 운동을 통해 강해지는 동시에, 구성원 간 유대감을 돈독히 하고 문화 예술을 공유하는 커뮤니티 공간입니다.",
-    "menus": []
-  },
-  {
-    "nid": 1961880965,
-    "season": 1,
-    "episode": 4,
-    "characteristic": "점핑운동",
-    "name": "인천점핑운동전문센터",
-    "coordinates": [37.5333571, 126.6524574],
-    "foodKind": "헬스장",
-    "address": "인천 서구 중봉대로612번길 10-22 우리프라자 704, 5호",
-    "phone": "0507-1368-7330",
-    "images": [
-      "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20200928_230%2F1601266898598LxTtr_JPEG%2FbL45acsvlHvfHZPND34gezV7.jpg",
-      "https://search.pstatic.net/common/?autoRotate=true&type=w278_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20200928_122%2F1601269974192ULLnS_JPEG%2FJnroTIucDOLKX0Y52Sv4HNju.jpg",
-      "https://search.pstatic.net/common/?autoRotate=true&type=w278_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20191211_45%2F15760533985461A3m5_JPEG%2FdLDqp4hEDauEPGfnfqZBDnW5.jpg"
-    ],
-    "description": "핫한 점핑피트니스! 점핑운동+캉구점프. 자타공인 전국최고 강사진!! [네이버 예약하기]를 통해 간편히 1회 체험예약을 하실수있습니다.",
-    "menus": []
-  },
-  {
-    "nid": 1824986140,
-    "season": 1,
-    "episode": 5,
-    "characteristic": "한그릇10만원찜뽕",
-    "name": "24시 대기만성",
-    "coordinates": [37.0229653, 127.1210758],
-    "foodKind": "중식당",
-    "address": "경기 평택시 이화로 391",
-    "phone": "031-618-8869",
-    "images": [
-      "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20211118_181%2F1637223150719RW1dU_JPEG%2FKakaoTalk_20211118_171204925.jpg",
-      "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20211118_10%2F1637211636563tN1IR_JPEG%2F%25B0%25A3%25C2%25A5%25C0%25E5.jpg",
-      "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20200708_264%2F1594198040231CqQKp_JPEG%2F12mKNc0e6uh9D3uZ4ilfID0N.jpg"
-    ],
-    "description": "우리 가족이 먹을 수 있는 건강한 짬뽕을 만들자! 대기만성은 이렇게 시작되었습니다. 좋은 식재료를 선택하는 기본! 신선한 식재료만을 사용하는 기본! 맛을 위한 정성을 아끼지 않고 쏟아내는 기본! 편법이 아닌 기본에 집중한 맛과 건강을 자부할 수 있는 인생 짬뽕을 만들게 되었습니다. 이제 우리 가족을 위한 인생 짬뽕을 여러분께 대접하고 싶습니다.",
-    "menus": [
-      { "name": "짬뽕", "price": "9,000원" },
-      { "name": "간짜장", "price": "8,000원" },
-      { "name": "찹쌀 탕수육 小", "price": "18,000원" },
-      { "name": "찹쌀 탕수육 大", "price": "28,000원" },
-      { "name": "굴짬뽕", "price": "11,000원" },
-      { "name": "순두부 짬뽕", "price": "10,000원" },
-      { "name": "백짬뽕", "price": "9,000원" },
-      { "name": "해물간짜장", "price": "10,000원" },
-      { "name": "짜장면", "price": "5,000원" },
-      { "name": "해물쟁반짜장 2人", "price": "18,000원" },
-      { "name": "마파두부면", "price": "9,000원" },
-      { "name": "새우볶음밥", "price": "8,500원" },
-      { "name": "짬뽕밥", "price": "9,000원" },
-      { "name": "순두부짬뽕밥", "price": "10,000원" },
-      { "name": "백짬뽕밥", "price": "9,000원" }
-    ]
-  },
-  {
-    "nid": 1172909556,
-    "season": 1,
-    "episode": 5,
-    "characteristic": "40cm산더미물갈비",
-    "name": "산홍 오산평택점",
-    "coordinates": [37.134443, 127.0309258],
-    "foodKind": "냉면",
-    "address": "경기 평택시 서탄면 발안로 1180",
-    "phone": "0507-1380-7757",
-    "images": [
-      "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20210227_266%2F16144127716250c7y4_JPEG%2FOxm_3GK9SSHOF53bAuKO9T5u.jpg",
-      "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20210227_174%2F1614412803056xzOCs_JPEG%2FD99c-gQi06s5KqDSouDqGHMO.jpg",
-      "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20211121_239%2F1637489919149mfejx_JPEG%2F1637489880385.jpg"
-    ],
-    "description": "",
-    "menus": [
-      { "name": "진주냉면", "price": "10,000원" },
-      { "name": "산더미물갈비(소)", "price": "38,000원" },
-      { "name": "옛날갈비탕", "price": "13,000원" },
-      { "name": "산홍", "price": "10,500원" },
-      { "name": "산더마물갈비(중)", "price": "48,000원" },
-      { "name": "산더미물갈비(대)", "price": "58,000원" },
-      { "name": "뚝배기불고기", "price": "11,000원" },
-      { "name": "소고기육전", "price": "20,000원" },
-      { "name": "왕만두", "price": "6,000원" },
-      { "name": "산홍불고기 순한맛(1인분)", "price": "13,000원" }
-    ]
-  },
-  {
-    "nid": 1476690926,
-    "season": 1,
-    "episode": 7,
-    "characteristic": "변사와함께하는중식당",
-    "name": "몽중식",
-    "coordinates": [37.5628337, 126.9246557],
-    "foodKind": "중식당",
-    "address": "서울 마포구 동교로 257 2층",
-    "phone": "010-2601-2856",
-    "images": [
-      "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20190725_273%2F1564066321070n4dEX_JPEG%2FSkPhnuTDxL2PvZor6WPMhdDj.jpg",
-      "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20190725_33%2F1564066616760zygjS_JPEG%2FHpm8bUa7f2nfEegG3lR15YH0.jpg",
-      "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20200213_156%2F1581557738109sPGt4_JPEG%2FYXT8KNFyg-kgbDpPbBb7J3gX.jpg"
-    ],
-    "description": "이제껏 경험하지 못했고 앞으로도 경험하지 못할 웰메이드 코스를 소개합니다! 몽중식은 중식 코스요리의 새로운 문화를 열고자 코스에 포함된 요리 하나 하나에 스토리를 입혔습니다. 식사하시는 순간만큼은 꿈 꾸듯이 맛있는 음식과 함께 즐거운 추억을 가져가시길 바라는 마음으로 아주 별나진 않지만 재미있는 이야기를 들려드리도록 할게요. 즐거운 식사 되시길, 좋은 꿈 꾸시길 바랍니다.",
-    "menus": [
-      { "name": "런치코스", "price": "35,000원" },
-      { "name": "디너코스-5시", "price": "65,000원" },
-      { "name": "디너코스-7시30분", "price": "90,000원" }
-    ]
-  },
-  {
-    "nid": 1729088578,
-    "season": 1,
-    "episode": 7,
-    "characteristic": "커피코스요리",
-    "name": "펠른",
-    "coordinates": [37.5620528, 126.9209704],
-    "foodKind": "카페",
-    "address": "서울 마포구 성미산로22길 18 A동 1층 펠른",
-    "phone": "02-332-9287",
-    "images": [
-      "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20220207_209%2F1644221820525KGNuS_PNG%2F220103_Perlen0983_00018.png",
-      "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20201124_12%2F1606228951883nuOj5_JPEG%2FN6sx5JvcqWevmA0zNThf7a8f.jpg",
-      "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20200429_169%2F1588158068752uUOho_JPEG%2FAT_Perlen_Spaces11_%25BF%25EB%25B7%25AE%25C1%25D9%25C0%25D3.jpg"
-    ],
-    "description": "단순 커피를 넘어 고객이 원하는 맛과 향을 선택할 수 있는 커피 페어링 코스를 통해 다양한 커피를 느껴보세요. 이제 펠른에서 커피 페어링 코스를 경험해보시기 바랍니다.",
-    "menus": [
-      { "name": "펠른 페어링 코스", "price": "38,000원" },
-      { "name": "위스키 더치", "price": "8,500원" },
-      { "name": "과일 (커피)", "price": "8,000원" },
-      { "name": "초콜릿 (커피)", "price": "7,500원" },
-      { "name": "펠른스픽 (커피)", "price": "10,000원" }
-    ]
-  },
-  {
-    "nid": 32209635,
-    "season": 1,
-    "episode": 8,
-    "characteristic": "수족관식당",
-    "name": "임진강수라상",
-    "coordinates": [37.88169039999998, 126.80214999999998],
-    "foodKind": "해물,생선요리",
-    "address": "경기 파주시 파평면 화석정로 101",
-    "phone": "031-952-9960",
-    "images": [
-      "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20201001_122%2F1601535117041qHaod_JPEG%2F2Zm3UFUWMj7KTM9WQoAzVUle.jpeg.jpg",
-      "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20201001_17%2F1601558443269IXIjD_JPEG%2Fc8sdH-jHaU8jm3BYa2neWWDW.jpeg.jpg",
-      "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20201001_4%2F1601535105445rtYHN_JPEG%2FIUyksPzgqzL-7l6Ub_rFHwIt.jpeg.jpg"
-    ],
-    "description": "",
-    "menus": [
-      { "name": "장어정식", "price": "35,000원" },
-      { "name": "참게정식", "price": "12,000원" },
-      { "name": "메기매운탕", "price": "35,000~55,000" },
-      { "name": "참게매운탕, 섞어매운탕", "price": "40,000~65,000" },
-      { "name": "빠가사리매운탕", "price": "45,000~75,000" },
-      { "name": "삼색장어(1kg)", "price": "85,000원" },
-      { "name": "밥 정식(2인)", "price": "75,000원" }
-    ]
-  },
-  {
-    "nid": 33860470,
-    "season": 1,
-    "episode": 8,
-    "characteristic": "기찻길도보3초",
-    "name": "교외선 우리집",
-    "coordinates": [37.64124, 126.8209859],
-    "foodKind": "칼국수,만두",
-    "address": "경기 고양시 덕양구 대장길 78-34 대정역 앞",
-    "phone": "0507-1318-5727",
-    "images": [
-      "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20201029_73%2F1603981343183AOVMo_JPEG%2F1C2Qz-sdrxKrZUliJoaCuc00.jpeg.jpg",
-      "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20150901_88%2F1441071635007FFzKE_JPEG%2F147160565239674_0.jpeg",
-      "https://search.pstatic.net/common/?autoRotate=true&type=w278_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20150901_153%2F1441071635190e6Y96_JPEG%2F147160565239674_1.jpeg"
-    ],
-    "description": "주문을 받은 동시에 음식을 만들기 때문에 대기시간이 길어질수 있습니다. 양해부탁드립니다. 예약은 받지 않습니다. 오신 순서대로 해드립니다. 재료소진시 조기 영업종료 될 수 있습니다. 미리 전화문의 하시면 편리합니다.",
-    "menus": [
-      { "name": "칼+만둣국", "price": "8,000원" },
-      { "name": "손 만둣국", "price": "8,000원" },
-      { "name": "손 칼국수", "price": "8,000원" },
-      { "name": "생만두10개 포장", "price": "10,000원" }
-    ]
-  },
-  {
-    "nid": 32548209,
-    "season": 2,
-    "episode": 1,
-    "characteristic": "1억백숙",
-    "name": "어인마니산삼궁",
-    "coordinates": [37.1833253, 127.0773385],
-    "foodKind": "백숙,삼계탕",
-    "address": "경기 화성시 금곡로 257",
-    "phone": "031-374-3351",
-    "images": [
-      "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20210610_7%2F1623328047394yEWui_JPEG%2F8Or2RfB1TJUppXwje7S9_GOx.JPG.jpg",
-      "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20210610_172%2F1623328107313yTYWi_JPEG%2Fl2LLpFqmnYzaxerzw7il2c7D.JPG.jpg",
-      "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20171129_238%2F1511966503132cbAIi_JPEG%2Fimage.jpg"
-    ],
-    "description": "산삼삼계탕, 백숙맛집 어인마니산삼궁 입니다.",
-    "menus": [
-      { "name": "산삼삼계탕", "price": "19,000원" },
-      { "name": "한방삼계탕", "price": "14,000원" },
-      { "name": "산삼백숙", "price": "74,000원" },
-      { "name": "한방백숙", "price": "54,000원" },
-      { "name": "닭갈비", "price": "11,000원" },
-      { "name": "산더덕 오리 주물럭", "price": "11,000원" },
-      { "name": "산삼반계탕", "price": "14,000원" },
-      { "name": "한방반계탕 ", "price": "9,000원" }
-    ]
-  },
-  {
-    "nid": 1561853968,
-    "season": 2,
-    "episode": 1,
-    "characteristic": "한우생케이크",
-    "name": "우블링",
-    "coordinates": [37.52276869258182, 127.040070734394],
-    "foodKind": "소고기구이",
-    "address": "서울 강남구 도산대로 406 청담퍼스트타워 1층 102호",
-    "phone": "0507-1355-5310",
-    "images": [
-      "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20200522_292%2F1590131103258IWP3Q_JPEG%2FmwDrEmBvSOq5HLhgF3gBNF4n.jpg",
-      "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20200529_295%2F1590741254218S4XMX_JPEG%2FiWqxPmhDEHbBCrBaCT8Z0O7H.jpg",
-      "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20200529_115%2F15907370636581HT9V_JPEG%2Frinttg9xT5UTovMn6hDcZLcz.jpg"
-    ],
-    "description": "최상급 1++ 한우만 고집하는 특수부위 전문점 우블링입니다. 2020년 청담동에서 1++ 한우와 좋은 식재료를 사용해 합리적인 가격으로 제공하며 정직과 신용을 판다는 자부심을 갖고자 끊임없이 노력한 우블링이 드디어 오픈합니다. 소중한 분들과의 모임 우블링에서 함께하세요.",
-    "menus": [
-      { "name": "숙성등심(130g)", "price": "55,000원" },
-      { "name": "숙성안심(130g)", "price": "58,000원" },
-      { "name": "특수부위 눈꽃살(130g)", "price": "65,000원" },
-      { "name": "특수부위 제비추리(130g)", "price": "48,000원" },
-      { "name": "특수부위 치마살(130g)", "price": "56,000원" },
-      { "name": "특수부위 토시살(130g)", "price": "58,000원" },
-      { "name": "특수부위 안창살(130g)", "price": "75,000원" },
-      { "name": "특수부위 새우살(130g)", "price": "75,000원" },
-      { "name": "한우 육회 (150g)", "price": "35,000원" },
-      { "name": "투뿔 한우 육사시미 (150g)", "price": "38,000원" },
-      { "name": "홋카이도산 우니한판", "price": "55,000원" },
-      { "name": "차돌된장국수전골+된장죽", "price": "34,000원" },
-      { "name": "차돌된장찌개", "price": "10,000원" },
-      { "name": "묵은지등심김치찌개", "price": "10,000원" },
-      { "name": "한우라면", "price": "10,000원" }
-    ]
-  },
-  {
-    "nid": 1301721204,
-    "season": 2,
-    "episode": 2,
-    "characteristic": "수경재배식당",
-    "name": "워터밀",
-    "coordinates": [37.5734278, 126.9901184],
-    "foodKind": "양식",
-    "address": "서울 종로구 수표로28길 33-7 워터밀",
-    "phone": "0507-1482-8887",
-    "images": [
-      "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20210705_156%2F1625481129924qdqtc_JPEG%2FWnpdHpcwzQQk9FvwZeolhB8h.jpg",
-      "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20210705_170%2F1625481176347MGcv0_JPEG%2FykFS2nEzt7uRq1O2oraJ5KUM.jpg",
-      "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20210705_132%2F1625480942894griRX_JPEG%2F5pKe1b6B2sL7IxU6CkkMEine.jpg"
-    ],
-    "description": "워터밀은 자연주의 식재료로 건강한 라이프스타일을 지향합니다. 스마트 팜에서 직접 수경재배로 기른 채소를 사용하고, 통곡물을 이용하여 탄수화물의 섭취를 줄입니다. 저탄소 식재료를 사용하기 위하여 소고기 또한 사용하지 않습니다. 신선하고 친환경적인 재료를 이용하여 만든 핸드메이드 플레이트로 여러분의 건강, 맛, 환경까지 생각하는 워터밀의 마음을 전달합니다.",
-    "menus": [
-      { "name": "해산물 바질페스토 리소토", "price": "17,800원" },
-      { "name": "리코타치즈와 메밀 크레페", "price": "14,800원" },
-      { "name": "비건 토마토 라따뚜이 숏 파스타", "price": "13,800원" },
-      { "name": "갈릭 명란 오일 스파게티니", "price": "16,800원" },
-      { "name": "포크 라구소스 라자냐", "price": "17,800원" },
-      { "name": "블랙페퍼 소스와 돼지 목살 스테이크", "price": "19,800원" },
-      { "name": "4가지 버섯이 들어간 트러플 크림 리가토니", "price": "16,800원" },
-      { "name": "쉬림프 아보카도 모차렐라 치즈 오믈렛", "price": "15,800원" },
-      { "name": "마카다미아 허니 버터와 호밀 브레드", "price": "3,000원" },
-      { "name": "베리 콤포트 브리오슈와 먹물 브레드", "price": "7,000원" },
-      { "name": "에피타이저 트레이", "price": "8,000원" },
-      { "name": "리코타 치즈 수경재배 샐러드(에피타이저)", "price": "변동" },
-      { "name": "프레시 모짜렐라 토마토 카프레제(에피타이저)", "price": "변동" },
-      { "name": "단호박 크림스프(에피타이저)", "price": "변동" },
-      { "name": "핸드메이드 해시브라운과 토마토 살사(에피타이저)", "price": "변동" }
-    ]
-  },
-  {
-    "nid": 1789186517,
-    "season": 2,
-    "episode": 2,
-    "characteristic": "3D맵핑식당",
-    "name": "비언유주얼",
-    "coordinates": [37.50959, 127.0446237],
-    "foodKind": "양식",
-    "address": "서울 강남구 선릉로108길 5 1층",
-    "phone": "0507-1428-7828",
-    "images": [
-      "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20210602_151%2F1622618501537cKGPM_PNG%2F1k88x0JUYLFu8479sufZ3d0h.PNG.png",
-      "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20210820_7%2F1629447929669XpwnE_PNG%2FScGCje8Ct8FXt8G6qNzyM9KO.PNG.png",
-      "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20210820_165%2F1629447849439XLNUd_JPEG%2FZs8eOTbhLeufp5nZB_HRRpMM.jpg"
-    ],
-    "description": "특색있는 당신을 위한 특별한 시간, 미디어아트 레스토랑 비언유주얼입니다. 비언유주얼은 고객님의 식사 경험을 오감으로 전달하기 위해 국내 최초 프로젝션 맵핑 기술을 활용해 레스토랑을 운영하고 있습니다. 프로젝터를 통해 테이블과 벽면, 사물에 영상을 맵핑하여 전시회 속에서 식사를 하는 듯한 이색적인 경험을 선사하여 고객님께 특별한 하루를 선물합니다. 사랑하는 연인을 위해, 소중한 가족을 위해 특별한 하루를 선물할 수 있는 공간이 되는 것이 비언유주얼의 정신이고, 더 나아가 우리의 식사문화를 엔터테인먼트의 영역으로 확장하는 것이 비언유주얼의 비전입니다.",
-    "menus": [
-      { "name": "2022 Menu(Dinner)", "price": "109,000원" },
-      { "name": "2022 Menu (Lunch)", "price": "89,000원" },
-      { "name": "생일 케이크와 영상 레터링", "price": "40,000원" },
-      { "name": "꽃다발", "price": "40,000원" },
-      { "name": "프로포즈 대관", "price": "380,000원" }
-    ]
-  },
-  {
-    "nid": 31243237,
-    "season": 2,
-    "episode": 3,
-    "characteristic": "원테이블한식당",
-    "name": "가가",
-    "coordinates": [37.57770006353622, 126.98666246671121],
-    "foodKind": "한정식",
-    "address": "서울 종로구 계동길 5",
-    "phone": "0507-1402-1126",
-    "images": [
-      "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20211028_145%2F1635347712594O7pbE_JPEG%2FxlJpu63Kpy8WfmrGr9KedAqu.jpg",
-      "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20161011_77%2F14761633881638Lcwg_JPEG%2F2016-10-11_14%253B21%253B06.",
-      "https://search.pstatic.net/common/?autoRotate=true&type=w278_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20161011_77%2F1476163388203Hnm1C_JPEG%2F2016-10-11_14%253B21%253B39."
-    ],
-    "description": "100% 사전 예약제로 운영하는 한식 전문점. 100년이 넘는 한옥을 개조, 전통과 모던을 접목해 분위기를 연출했다. 밥과 반찬을 포함해 9~12 코스로 이루어지며, 정해진 메뉴가 아니라 그날 그날 정한 한식 코스메뉴를 선보인다.",
-    "menus": [
-      { "name": "점심", "price": "80,000원" },
-      { "name": "저녁", "price": "140,000원" }
-    ]
-  },
-  {
-    "nid": 36771856,
-    "season": 2,
-    "episode": 3,
-    "characteristic": "하루열그릇납작우동",
-    "name": "히노야마",
-    "coordinates": [37.5172332, 126.86523919999999],
-    "foodKind": "우동,소바",
-    "address": "서울 양천구 목동서로 349 센트럴프라자 119호",
-    "phone": "0507-1305-8667",
-    "images": [
-      "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20210410_207%2F1618017861882SMWgP_PNG%2FYqDdpOzPtwAZRsG3asVsVyj7.png",
-      "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20210410_73%2F1618017852607oVnfI_PNG%2FIjLS6PjecjuaZDZti8YIeNJa.png",
-      "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20180618_14%2F1529296346054sAJ7J_JPEG%2FzMxqjBCQopV8Se8I9x6Mqcmj.jpg"
-    ],
-    "description": "Since 1992년 가게 문을 연 30년 전 부터... 직접달인 360시간 숙성간장으로 만든 우동국물과 11시간 숙성반죽 자가제면까지 빚어낸 명품 사누끼우동. 29년 전통의 목동 수타우동전문점 히노야마(구:아소산) 오랜전통을 가진 일본우동은 도쿄를 중심으로 한 관동 지방의 우동과 오사카를 중심으로 한 관서지방의 것으로 구분됩니다. 그 맛은 개인의 취향에 따라 다르겠지만 기후가 좋아 양질의 밀이 생산되는 시꼬꾸지방을 중심으로 발달된 관서지방의 우동을 더 치며 이를 사누끼 우동이라 합니다. 히노야마는 이런 사누끼 우동을 그대로 재현하였습니다.",
-    "menus": [
-      { "name": "사누끼우동", "price": "9,900원" },
-      { "name": "덴뿌라우동", "price": "10,500원" },
-      { "name": "붓가케우동", "price": "10,900원" },
-      { "name": "왕새우튀김우동 정식", "price": "14,900원" },
-      { "name": "붓가케우동 정식", "price": "15,900원" },
-      { "name": "가쯔나베 정식", "price": "16,900원" },
-      { "name": "자루우동", "price": "10,000원" },
-      { "name": "납작 우동 한상", "price": "18,000원" },
-      { "name": "기츠네우동", "price": "9,900원" },
-      { "name": "카라미우동", "price": "15,000원" },
-      { "name": "히노짬뽕", "price": "15,000원" },
-      { "name": "에비나베 정식", "price": "16,900원" },
-      { "name": "냉우동 정식", "price": "15,900원" }
-    ]
-  },
-  {
-    "nid": 1947960302,
-    "season": 2,
-    "episode": 5,
-    "characteristic": "버거튀김",
-    "name": "컨테이너피플 을지로점",
-    "coordinates": [37.5671459, 126.9954512],
-    "foodKind": "종합분식",
-    "address": "서울 중구 을지로 157 3층 가,나열 358,259호",
-    "phone": "0507-1394-1090",
-    "images": [
-      "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20201215_288%2F1607960962767nNFHb_PNG%2FlxIS6SMRY_0AusJl4BYolKtS.png",
-      "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20200826_128%2F1598441400761op6mt_JPEG%2Fr9jSafpBPFXhNkDYFPbRuksH.jpg",
-      "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20201215_24%2F1607961146281JfQsm_PNG%2FGRlx3rGK-rrh-kptuNUXZliO.png"
-    ],
-    "description": "느낌있는 젊은사람들이 모여 만든 컨테이너피플 을지로점. 캠핑 느낌의 홀에서 먹는 프리미엄떡볶이와 수제버거튀김",
-    "menus": [
-      { "name": "컨테이너 떡볶이", "price": "10,000원" },
-      { "name": "수제불고기버거튀김", "price": "7,000원" },
-      { "name": "짜장 떡볶이", "price": "11,000원" },
-      { "name": "로제&치즈 떡볶이", "price": "11,500원" },
-      { "name": "수제새우버거튀김", "price": "7,500원" },
-      { "name": "수제핫불돈까스버거튀김", "price": "7,500원" },
-      { "name": "수제치즈퐁듀버거튀김", "price": "8,500원" },
-      { "name": "파스타샐러드", "price": "8,000원" },
-      { "name": "버터갈릭감자튀김", "price": "5,000원" }
-    ]
-  },
-  {
-    "nid": 1738395785,
-    "season": 2,
-    "episode": 5,
-    "characteristic": "갈치파스타",
-    "name": "시고로",
-    "coordinates": [37.5220728, 127.042034],
-    "foodKind": "양식",
-    "address": "서울 강남구 선릉로146길 27-3 2층",
-    "phone": "0507-1382-3346",
-    "images": [
-      "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20191014_48%2F1571031613887rqhnU_JPEG%2FueGgU0DAdedy361xCKQY5paz.jpg",
-      "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20191014_284%2F1571032577436KJ85g_JPEG%2FbTSQeZvm0V5B864jibCXS7Z6.JPG.jpg",
-      "https://search.pstatic.net/common/?autoRotate=true&type=w278_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20191019_2%2F1571456576447uFV6H_PNG%2Fimage.png"
-    ],
-    "description": "캐주얼 양식당 SIGOLO는 아메리칸 베이스 러스틱 퀴진을 추구합니다. 한국의 제철 친근한 농산물과 수족관에서 바로 건져 요리하는 싱싱한 조개와 해산물을 이용하여 시골스럽운 맛 과 멋 그리고 재미를 담은 시고로 만의 요리를 드리겠습니다.",
-    "menus": [
-      { "name": "SNACK", "price": "9,000~15,000" },
-      { "name": "SMALL PLATE", "price": "12,000~22,000" },
-      { "name": "BIG PLATE", "price": "21,000~50,000" }
-    ]
-  },
-  {
-    "nid": 1415648808,
-    "season": 2,
-    "episode": 6,
-    "characteristic": "수제떡갈비",
-    "name": "최가상회",
-    "coordinates": [37.5698915, 126.962051],
-    "foodKind": "한식",
-    "address": "서울 서대문구 영천시장길 56 1층 최가상회",
-    "phone": "0507-1354-5069",
-    "images": [
-      "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20210426_168%2F1619406233812g4NmY_JPEG%2FZn-fhcr4jNz6RiuQ6dFlh52F.jpg",
-      "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=http%3A%2F%2Fblogfiles.naver.net%2FMjAyMTA5MjBfMTQg%2FMDAxNjMyMTI5MzU0MjU2.lfLsPP7kjFqhxZsAqWggmITzhIMLKwP2-5WJobb_SoUg.5deg7HtIAVR5_4ruRq_PxdAvdNxdFYT0fnrI6V3Enm8g.JPEG.ridia1013%2Fcntjrdlekds1_%252822%2529.jpg",
-      "https://search.pstatic.net/common/?autoRotate=true&type=w278_sharpen&src=http%3A%2F%2Fblogfiles.naver.net%2FMjAyMTA3MzFfMTA3%2FMDAxNjI3Njg2NzYwNzQ2.1bCwiFbVCrmt26cg4kQ78pihXAG4BVNIssm2myVpbrIg.4I4_ZQngT2HVH7zbe2wt5pgaacVANXR0TaO_-rQ9CqIg.JPEG.howardlee78%2F20210731_081016.jpg"
-    ],
-    "description": "",
-    "menus": [{ "name": "떡갈비 4인분", "price": "10,000원" }]
-  },
-  {
-    "nid": 37435594,
-    "season": 2,
-    "episode": 6,
-    "characteristic": "퓨전떡집",
-    "name": "자이소",
-    "coordinates": [37.50047693511642, 127.12446225535211],
-    "foodKind": "떡,한과",
-    "address": "서울 송파구 양재대로66길 30 1층",
-    "phone": "1599-6632",
-    "images": [
-      "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=http%3A%2F%2Fblogfiles.naver.net%2FMjAyMTA4MTBfMjQ3%2FMDAxNjI4NTY3NTAxODU0.Ekx7hVAVutSNfJ9FzNjFNr6ySNNbCGh8Q29wiTH-aiAg.IkVtpTfKP6IoFiH3E179l6D-Si3qNdroUR7-bR7kwksg.JPEG.yjlovedh0511%2F20210810%25A3%25DF123211.jpg",
-      "https://search.pstatic.net/common/?autoRotate=true&type=w278_sharpen&src=http%3A%2F%2Fblogfiles.naver.net%2FMjAyMjAyMjJfMTYw%2FMDAxNjQ1NTMyMTcxODY3.H0ljE6s-xYkzhPnV-jxhppIWlsiEG3eOgiA3GBU3Aogg._cLv-9wA_DPoGlu9IoHu99oghvbkl8BlECm5wyaNNO4g.JPEG.jelee1004100%2F1645531892640.jpg",
-      "https://search.pstatic.net/common/?autoRotate=true&type=w278_sharpen&src=http%3A%2F%2Fblogfiles.naver.net%2FMjAyMTAxMDdfNDMg%2FMDAxNjA5OTUyMDczMzIw.Vb4EoLJz3AC3Fz7MWsPN5XXhDO67BHKrlqcnT1oKIW4g.mA7CYB1BoHIs7yxoqbRjbypkkreL8G2bHtrv8d8TESsg.JPEG.sooksookse2%2FIMG_4641."
+      "https://ldb-phinf.pstatic.net/20220514_206/1652502634010ovzYj_JPEG/B3A51761-7AEC-4337-9C60-2682380596C8.jpeg",
+      "https://ldb-phinf.pstatic.net/20220821_56/16610488303016yUfT_JPEG/6043E9D6-A1DA-45C9-B85B-A48F5DA6C027.jpeg",
+      "https://ldb-phinf.pstatic.net/20220824_169/1661324218677DbcS6_JPEG/0448894C-4163-4DEE-81BD-34223EDADCFA.jpeg"
     ],
     "description": "",
     "menus": []
   },
   {
-    "nid": 12067740,
-    "season": 2,
-    "episode": 7,
-    "characteristic": "구운삼계탕",
-    "name": "퓨전굽는삼계탕",
-    "coordinates": [37.3769647, 126.7654116],
-    "foodKind": "백숙,삼계탕",
-    "address": "경기 시흥시 동서로168번길 71-1",
-    "phone": "031-433-5736",
+    "nid": 1726331752,
+    "characteristic": "카페 위드 멍냠",
+    "name": "카페 위드 멍냠",
+    "coordinates": [37.5449592, 126.7366264],
+    "foodKind": "음식점",
+    "address": "인천광역시 계양구 임학동로 34 1층",
+    "phone": "010-2450-2478",
     "images": [
-      "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=http%3A%2F%2Fblogfiles.naver.net%2FMjAyMDA4MThfNzEg%2FMDAxNTk3NzU5MDQ3MTk0.sItZMf1RtHAORIleTbfcuH0-EztGAKYX6-g2wBe0VDog.ftvipsBLiwXHckdtbdo0nl4ZJS16p33Ohi0GXnarU04g.JPEG.my1312%2FKakaoTalk_20200818_222743147_18.jpg",
-      "https://search.pstatic.net/common/?autoRotate=true&type=w278_sharpen&src=http%3A%2F%2Fblogfiles.naver.net%2F20160529_260%2Fkh99psy03_1464516034051cPPLv_JPEG%2FKakaoTalk_20160529_184230507.jpg",
-      "https://search.pstatic.net/common/?autoRotate=true&type=w278_sharpen&src=http%3A%2F%2Fblogfiles.naver.net%2FMjAyMDA3MDFfMjM1%2FMDAxNTkzNTY3MTE2NjAw.h8Cng8rnYebwY_22dQeE29QU4XKCKJq1oWJgS4TNRTMg.Y5MFGaE6X-7b8SZEcdCZhD5qKmoENkjAZ8fwVR9hwMgg.JPEG.elezanee%2FKakaoTalk_20200701_102015496.jpg"
-    ],
-    "description": "KBS 한식탐험대 별별요리열전을 통해 소개된 업체입니다.",
-    "menus": [
-      { "name": "굽는삼계탕 2인", "price": "36,000원" },
-      { "name": "굽는삼계탕 3인", "price": "58,000원" },
-      { "name": "굽는삼계탕 4인", "price": "64,000원" },
-      { "name": "눈꽃삼계탕 4인", "price": "64,000원" },
-      { "name": "산삼배양근주", "price": "12,000원" },
-      { "name": "눈꽃 삼계탕 3인", "price": "58,000원" },
-      { "name": "눈꽃 삼계탕 2인", "price": "36,000원" }
-    ]
-  },
-  {
-    "nid": 1742512433,
-    "season": 2,
-    "episode": 7,
-    "characteristic": "보양식코스요리",
-    "name": "기후",
-    "coordinates": [37.5406187, 127.0561318],
-    "foodKind": "일식당",
-    "address": "서울 성동구 성수이로 66 1층 106호 기후 (서울숲드림타워)",
-    "phone": "02-466-7079",
-    "images": [
-      "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20210713_9%2F1626155376817h27kW_JPEG%2FqSN6sK9p8Tmm65dv9Ygs7LRU.jpeg.jpg",
-      "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20210713_298%2F16261554512698qYf7_JPEG%2Fu8vuI7uP2YNrbxV2-ACUJIHA.jpeg.jpg",
-      "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20220407_165%2F1649337588378FLUVA_JPEG%2FC83B5FD0-27E0-4EFC-8D5A-FAAC557FB1EB.jpeg"
-    ],
-    "description": "친근한 맛과 멋을 일본요리와 다채로운 식재료로 계절과 아름다운 조화를 이루는 요리집 입니다. 한방의학을 인용하여 기후의 변화에 맞춰 몸에 보양이 되고자 하는 마음으로 안문생 한의원, 한국 약선 연구원의 배움속에서 메뉴 연구 하고 있습니다. 전통과 창의력, 근본과 재미가 공존하는 자유롭고 자연스러운 곳입니다.",
-    "menus": [
-      { "name": "디너 보양 오마카세", "price": "88,000원" },
-      { "name": "런치 보양 오마카세", "price": "88,000원" }
-    ]
-  },
-  {
-    "nid": 31520048,
-    "season": 2,
-    "episode": 9,
-    "characteristic": "팥빙콩국수",
-    "name": "콩심팥심",
-    "coordinates": [37.6509965, 126.6487032],
-    "foodKind": "한식",
-    "address": "경기 김포시 양촌읍 김포한강4로 313 1층",
-    "phone": "031-997-6824",
-    "images": [
-      "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20220406_100%2F1649209363027oc41J_JPEG%2F2021_%25B8%25CB%25B5%25B9%25C4%25E1%25B1%25B9%25BC%25F6_01.jpg",
-      "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20220406_272%2F1649209323930kTMxb_JPEG%2F2021_%25C6%25CF%25BA%25F9%25C4%25E1%25B1%25B9%25BC%25F6_01.jpg",
-      "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20220308_272%2F1646726123786iUjmF_JPEG%2F20220307_094844.jpg"
-    ],
-    "description": "맷돌콩국수와 팥빙콩국수가 유명한 김포맛집. 경북 예천산 콩을 맷돌로 직접 갈아 진한 콩국을 만들고 예천산 팥을 직접 삶아 구수한 통팥소를 정성스럽게 만들고 있습니다. 국내산 토종 백태를 사용하여 옛 전통적인 방식으로 총 13시간에 걸쳐 콩국을 만듭니다. 콩을 불리고, 삶고, 맷돌로 직접 갈아서 만든 콩국에 함초소금으로 염도 0.5로 밑간을 하여 진한 콩국을 완성합니다.",
-    "menus": [
-      { "name": "맷돌콩국수(4월~9월)", "price": "9,000원" },
-      { "name": "팥빙콩국수(4월~9월)", "price": "10,000원" },
-      { "name": "장칼국수+밥", "price": "9,000원" },
-      { "name": "유부칼국수+밥", "price": "9,000원" },
-      { "name": "온콩국수", "price": "9,000원" },
-      { "name": "통팥국수", "price": "9,000원" },
-      { "name": "왕만두(6개)", "price": "8,000원" },
-      { "name": "온콩죽(10월~3월)", "price": "9,000원" },
-      { "name": "앙버터콩국수(10월~3월)", "price": "10,000원" },
-      { "name": "통팥죽(10월~3월)", "price": "9,000원" }
-    ]
-  },
-  {
-    "nid": 1203544176,
-    "season": 2,
-    "episode": 9,
-    "characteristic": "냉면칵테일",
-    "name": "장생건강원",
-    "coordinates": [37.50933834028112, 127.02453292628965],
-    "foodKind": "바(BAR)",
-    "address": "서울 강남구 강남대로124길 23",
-    "phone": "0507-1369-1077",
-    "images": [
-      "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20220131_197%2F16436231093654hw7F_JPEG%2F%25C0%25E5%25BB%25FD%25B0%25C7%25B0%25AD%25BF%25F8_%25C1%25A4%25B8%25E9%25BB%25E7%25C1%25F8.jpg",
-      "https://search.pstatic.net/common/?autoRotate=true&type=w278_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20220131_102%2F16436229224020IP1m_JPEG%2F%25B1%25D7%25B8%25B21.jpg",
-      "https://search.pstatic.net/common/?autoRotate=true&type=w278_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20220131_28%2F1643623232706ziYhR_PNG%2F%25C0%25E5%25BB%25FD%25C5%25AB%25B7%25EB_%25C0%25DB%25C0%25BA%25C6%25C4%25C0%25CF.png"
-    ],
-    "description": "안녕하세요 당신의 건강한 칵테일을 만드는 장생건강원 Bar 입니다. 저희는 시장 상인들과의 상생 공생을 목적으로 만들어 진 공간이며, 국가대표 바텐더 와 대한민국전통주홍보대사 라는 특별한 타이틀을 가진 유명 바텐더가 직접 시장 상인과 호흡하며 칵테일을 만들고 시장상권과 골목상권의 생기를 불어 넣는 역할을 하고 있습니다. 청년들이 힘을 합쳐 모여 만든 공간으로 시장 내 젊은혈기와 건강한 아이덴티티로 찾오시는 손님들에게 장생을 제공합니다. 이 공간은 실제로 20년간 실제 장생건강원 이였던 자리를 그대로 물려받아서, 건강원컨셉을 그대로 이끌어가는 공간인데요, 실제 장생건강원의 비법을 그대로 물려받아 기본적으로 제공되는 헛개수 부터 직접 끓인 물이 제공되며 모든 음료에 건강한 맛을 대표적으로 표현하고자 합니다. 그럼 오늘도 찾아주시는 모든 분들의 장생을 기원합니다. 감사합니다.",
-    "menus": [
-      { "name": "Classic Cocktail", "price": "17,000원" },
-      { "name": "Ice americano", "price": "2,000원" },
-      { "name": "Whisky Glass", "price": "16,000원" },
-      { "name": "By the glass Wine", "price": "15,000원" }
-    ]
-  },
-  {
-    "nid": 1139991886,
-    "season": 2,
-    "episode": 10,
-    "characteristic": "꽃게닭볶음탕",
-    "name": "도비네 꽃도리탕 다산점",
-    "coordinates": [37.6237034001238, 127.152183499685],
-    "foodKind": "닭볶음탕",
-    "address": "경기 남양주시 다산중앙로123번길 11 1층 103호, 104호, 105호",
-    "phone": "031-551-1437",
-    "images": [
-      "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20201211_36%2F1607662455212eDCuG_JPEG%2FCJDohOkPZPdBiiVYGCxyIcrK.jpg",
-      "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20211119_275%2F1637298843427513zj_JPEG%2F1635480580123.jpg",
-      "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20211119_135%2F1637298812423E3ona_JPEG%2F1635480580123.jpg"
-    ],
-    "description": "도비네 꽃도리탕은 하루 80마리 한정수량 판매 합니다. 24시간동안 특제소스에 숙성시키는 것을 기본원칙으로 하고 있으며, 조미료를 전혀 사용하지 않고 있습니다.",
-    "menus": [
-      { "name": "꽃게닭도리탕(한마리)", "price": "38,000원" },
-      { "name": "껍질깐새우닭도리탕(반마리)", "price": "28,000원" },
-      { "name": "껍질깐새우닭도리탕(한마리)", "price": "38,000원" },
-      { "name": "꽃게닭도리탕(반마리)", "price": "28,000원" },
-      { "name": "묵은지닭도리탕(반마리)", "price": "25,000원" },
-      { "name": "묵은지닭도리탕(한마리)", "price": "35,000원" },
-      { "name": "정통닭도리탕(반마리)", "price": "18,000원" },
-      { "name": "정통닭도리탕(한마리)", "price": "26,000원" },
-      { "name": "매콤게살크림파스타", "price": "18,000원" },
-      { "name": "쭈꾸미닭도리탕 반마리", "price": "28,000원" },
-      { "name": "쭈꾸미닭도리탕 한마리", "price": "38,000원" }
-    ]
-  },
-  {
-    "nid": 1241346213,
-    "season": 2,
-    "episode": 10,
-    "characteristic": "순두부우동",
-    "name": "홍제동30년우동국수",
-    "coordinates": [37.6163615, 126.9078196],
-    "foodKind": "우동,소바",
-    "address": "서울 은평구 서오릉로 242",
-    "phone": "0507-1378-5929",
-    "images": [
-      "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20210912_101%2F1631415578977vaCXb_JPEG%2FxLl20_rz4SsI7hcu1DzcBPv1.jpeg.jpg",
-      "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20200330_203%2F1585540221715WMdo5_JPEG%2F6Lvc82CshJubGTgHeiI8haDZ.jpg",
-      "https://search.pstatic.net/common/?autoRotate=true&type=w278_sharpen&src=http%3A%2F%2Fblogfiles.naver.net%2FMjAyMjAzMDZfODQg%2FMDAxNjQ2NTc4NzcwODQ5.ImSVFN1tz2KXQY0NNW5FEGZ04KsBiB8cBmNYhFos634g.972MyLIaFKE12qTHAncckArFYpXABD2pflZOhW1LaoEg.JPEG.ujin10003%2FIMG_0363.jpg"
+      "https://ldb-phinf.pstatic.net/20230117_92/1673943624805MnUIt_JPEG/357E8C33-9E80-4E0C-92D2-DA7BE7DEF9CF.jpeg",
+      "https://ldb-phinf.pstatic.net/20230117_268/1673943932550jH5x2_JPEG/FF3AD430-6C15-4950-BD94-63FB7DE085B6.jpeg",
+      "https://ldb-phinf.pstatic.net/20230117_53/1673943932948DeAje_JPEG/46C3BD61-71E4-4016-AF13-DBF4A4EBB74E.jpeg"
     ],
     "description": "",
     "menus": [
-      { "name": "우동", "price": "5,000원" },
-      { "name": "유부우동", "price": "6,000원" },
-      { "name": "부추우동", "price": "6,000원" },
-      { "name": "어묵우동", "price": "6,000원" },
-      { "name": "들깨우동", "price": "7,000원" },
-      { "name": "순두부우동", "price": "7,000원" },
-      { "name": "비빔면", "price": "7,000원" },
-      { "name": "콩국수(계절메뉴)", "price": "7,000원" },
-      { "name": "똥집", "price": "8,000원" },
-      { "name": "오돌뼈", "price": "8,000원" },
-      { "name": "닭발", "price": "10,000원" },
-      { "name": "오징어데침", "price": "12,000원" },
-      { "name": "꼬막(계절메뉴)", "price": "12,000원" },
-      { "name": "계란말이", "price": "9,000원" }
+      {
+        "name": "연어치즈당근머핀",
+        "price": "4,500"
+      },
+      {
+        "name": "댕푸치노",
+        "price": "2,500"
+      },
+      {
+        "name": "치즈닭안심져키",
+        "price": "6,000"
+      },
+      {
+        "name": "오리날개",
+        "price": "4,500"
+      },
+      {
+        "name": "고구마사과스틱(비건)",
+        "price": "6,000"
+      },
+      {
+        "name": "댕그드랍샌드위치",
+        "price": "7,000"
+      },
+      {
+        "name": "붕어빵",
+        "price": "4,000"
+      },
+      {
+        "name": "헤이즐넛라떼",
+        "price": "4,500"
+      },
+      {
+        "name": "연유라떼",
+        "price": "4,500"
+      },
+      {
+        "name": "자몽에이드",
+        "price": "5,000"
+      },
+      {
+        "name": "청포도에이드",
+        "price": "5,000"
+      },
+      {
+        "name": "아이스틔",
+        "price": "4,500"
+      },
+      {
+        "name": "초코라떼",
+        "price": "5,000"
+      },
+      {
+        "name": "얼그레이",
+        "price": "3,800"
+      },
+
+      {
+        "name": "페퍼민트",
+        "price": "3,800"
+      },
+      {
+        "name": "조각케이크",
+        "price": "4,000"
+      }
     ]
   },
   {
-    "nid": 37213201,
-    "season": 2,
-    "episode": 11,
-    "characteristic": "아트테라피",
-    "name": "트리인마인드예술치료교육연구소",
-    "coordinates": [37.380066, 127.1177766],
-    "foodKind": "치료,상담",
-    "address": "경기 성남시 분당구 수내로 54 보보스쉐르빌 1509호",
-    "phone": "0507-1485-1143",
-    "images": [
-      "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20211122_231%2F1637550910961HRNxq_JPEG%2F%25C6%25AE%25B8%25AE%25C0%25CE%25B8%25B6%25C0%25CE%25B5%25E5_%25B9%25CC%25BC%25FA%25C4%25A1%25B7%25E1.jpg",
-      "https://search.pstatic.net/common/?autoRotate=true&type=w278_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20200913_84%2F1599973044636kP7pF_JPEG%2FKakaoTalk_Photo_2020-09-13-11-44-37.jpeg",
-      "https://search.pstatic.net/common/?autoRotate=true&type=w278_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20200913_24%2F1599973044639iyRNi_JPEG%2FKakaoTalk_Photo_2020-09-13-13-49-59.jpeg"
-    ],
-    "description": "몸과 마음의 경험으로부터 만들어지는 미술, 무용동작의 창의적 언어를 통해 우리는 내면과 깊게 소통할 수 있으며, 변화와 성장을 위한 자신만의 속도와 의미를 찾아갈 수 있습니다. + 우울, 불안, 무기력, 분노 등의 정서적 어려움 + 대인관계, 가족, 양육 스트레스 + 변화하는 삶과 생의 주기에서 혼란스러움 + 지금과는 다른 변화가 필요하다고 느끼고 생각하는 분들에게 의미 있는 시간이 될 수 있습니다.",
-    "menus": []
-  },
-  {
-    "nid": 1280949033,
-    "season": 2,
-    "episode": 12,
-    "characteristic": "한식다이닝",
-    "name": "암소서울",
-    "coordinates": [37.5697843, 126.9731965],
-    "foodKind": "한식",
-    "address": "서울 종로구 새문안로 76 콘코디언빌딩 지하 1층",
-    "phone": "0507-1302-0128",
-    "images": [
-      "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20210927_139%2F1632725766531T1Xn6_JPEG%2FjxV6ugNi993DoIPQVYljPygv.jpg",
-      "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20210927_38%2F1632725774754URnl9_JPEG%2FbJcBP_hI5F6q_axoEVsMXyzd.jpeg.jpg",
-      "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20191129_184%2F1575013483649v2b0x_JPEG%2FYAaZbIqM12njWIS_UvsiqOF_.jpg"
-    ],
-    "description": "암소서울은 'Korean Dining Studio'로 브랜드 대표 메뉴인 한우 '암소'와 지금의 한국다움을 가장 생생하게 품은 도시 '서울'의 합성어입니다. 암소서울의 메뉴는 선조들의 고서 중 조선시대에 남아있던 자료들로 완성하였습니다. 한양을 대표했던 음식 중에서도 미식을 즐기던 양반, 사대부 종가 가문들의 메뉴를 재현하면서 우리나라 최고 명인들의 자개, 장, 젓갈, 한과 등 조선을 대표했던 명주와 함께 만들었습니다. 전통과 현대가 공존하는 지금 이 순간, 암소서울에서 새로운 한식을 느끼고 경험해보시기 바랍니다.",
-    "menus": [
-      { "name": "종가(런치/디너)", "price": "179,000원" },
-      { "name": "반가(런치)", "price": "119,000원" }
-    ]
-  },
-  {
-    "nid": 1237242418,
-    "season": 2,
-    "episode": 12,
-    "characteristic": "디저트코스",
-    "name": "10월 19일",
-    "coordinates": [37.4811896, 127.0106047],
-    "foodKind": "카페,디저트",
-    "address": "서울 서초구 반포대로3길 31 101호",
-    "phone": "010-9461-1906",
-    "images": [
-      "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20200929_176%2F1601362384522fVz8D_PNG%2F0EGZIw9y90eLWzW7TQD9QRPy.png",
-      "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20200929_20%2F1601364065608wWDb0_JPEG%2FHeZV43QcDcSz9bOuIx7xyMCY.jpeg.jpg",
-      "https://search.pstatic.net/common/?autoRotate=true&type=w278_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20200929_4%2F1601364067260xyhMB_JPEG%2FuDodpb4S-D5FI0O_9Py6oP53.jpeg.jpg"
-    ],
-    "description": "서초동에 위치한 세이버리 디저트코스 bar",
-    "menus": [
-      { "name": "코스디저트", "price": "변동" },
-      { "name": "핸드드립커피", "price": "5,000원" }
-    ]
-  },
-  {
-    "nid": 1483301737,
-    "season": 2,
-    "episode": 13,
-    "characteristic": "작명가",
-    "name": "황시현 이름연구원",
-    "coordinates": [37.503772, 127.0448419],
-    "foodKind": "운세,사주",
-    "address": "서울 강남구 테헤란로 311 아남타워빌딩 820호",
-    "phone": "0507-1331-2429",
-    "images": [
-      "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20190815_213%2F1565831801689hMv1I_JPEG%2FxNRDWb8X9HWDB-sWN73Gq8gL.jpg",
-      "https://search.pstatic.net/common/?autoRotate=true&type=w278_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20190815_32%2F1565831201224HIU7S_JPEG%2FgtycnPD173AX5NCjNDjAfqZu.jpg",
-      "https://search.pstatic.net/common/?autoRotate=true&type=w278_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20190815_270%2F1565831957394wm0gV_JPEG%2FWLWFGkHbg5G_uLeVAtB9pJ8B.JPG.jpg"
-    ],
-    "description": "이름 분석 상담시 약 2시간 소요되며 이름분석은 오로지 이름만으로 진행 이름으로 한 사람의 재능, 적성, 성격, 궁합, 대인관계 등 모든 삶을 분석.",
-    "menus": [
-      { "name": "이름분석 1인당", "price": "70,000원" },
-      { "name": "이름감명 개당", "price": "변동" },
-      { "name": "작명비", "price": "변동" },
-      { "name": "상호  및 브랜드네임", "price": "변동" }
-    ]
-  },
-  {
-    "nid": 1838135293,
-    "season": 3,
-    "episode": 1,
-    "characteristic": "개미식당",
-    "name": "에빗",
-    "coordinates": [37.4944247962443, 127.03868553433001],
-    "foodKind": "양식",
-    "address": "서울 강남구 도곡로23길 33",
-    "phone": "0507-1399-1029",
-    "images": [
-      "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20191219_148%2F1576765579462FWQRp_JPEG%2FOl42xEUkBGM9U5dbjQIbh0jH.jpeg.jpg",
-      "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20190508_209%2F1557276757568H5Cit_JPEG%2FXw5M_r0W0ontbKvXcLUt4y_f.jpeg.jpg",
-      "https://search.pstatic.net/common/?autoRotate=true&type=w278_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20190508_104%2F1557276770847SST42_JPEG%2Fx0jT3PLDWJQ27ZqCPwoZRwik.jpeg.jpg"
-    ],
-    "description": "호주 셰프 Joseph Lidgerwood가 운영하는 레스토랑. EVETT에서는 한국의 식재료를 세계 각지에서 얻은 아이디어와 테크닉으로 재해석한 코스의 테이스팅 메뉴를 소개 하며 이와 함께 엄선된 와인리스트와 전통주 페어링이 준비 되어 있습니다. 오픈 키친으로 바 테이블과 홀테이블 석을 갖추고 있습니다.",
-    "menus": [
-      { "name": "Lunch Course", "price": "100,000원" },
-      { "name": "Dinner Course", "price": "220,000원" }
-    ]
-  },
-  {
-    "nid": 13122769,
-    "season": 3,
-    "episode": 2,
-    "characteristic": "60첩횟집",
-    "name": "내고향강원도",
-    "coordinates": [37.4517927, 126.6012165],
-    "foodKind": "생선회",
-    "address": "인천 중구 연안부두로75번길 27-2",
-    "phone": "032-883-4543",
-    "images": [
-      "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20210513_44%2F16209102305520UGoO_JPEG%2FWIm21Bsi5sOztajFe9T5ozMi.jpg",
-      "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20200109_222%2F1578568180543yHQPe_PNG%2F5SdLMEoiyLu2GTK6RDtmxScE.png",
-      "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20200109_284%2F1578568822233045sj_PNG%2FtQpsNb6l5DhXNkPEWCkLJUik.png"
-    ],
-    "description": "안녕하십니까? 내고향강원도입니다. 저희 내고향강원도는 광어 전문점으로서 서비스와 손맛이 살아있는, 한번쯤은 가보고 싶은 식당입니다. 한번 방문하신 고객들께선 반드시 또 한번은 찾아주십니다. 오시는 고객 여러분께 보답하고자 늘 최선을 다하는 서비스를 제공하고 있으며, 제철해산물 샤브샤브와 해산물 ,맛의 진수를 저희 내고향강원도에서 느끼실 수 있도록 항상 노력하고 있습니다. 찾아주시는 고객 분들 건강하시고 모든 일에 행운이 함께 하시길 기원합니다. 감사합니다.",
-    "menus": [
-      { "name": "제철활어회+60첩+랍스타", "price": "180,000원" },
-      { "name": "60첩+활어회", "price": "160,000원" },
-      { "name": "우럭+도미", "price": "140,000원" }
-    ]
-  },
-  {
-    "nid": 1975988944,
-    "season": 3,
-    "episode": 2,
-    "characteristic": "회전고기",
-    "name": "미육 송도타임스페이스점",
-    "coordinates": [37.38395329999994, 126.64233659999954],
-    "foodKind": "육류,고기요리",
-    "address": "인천 연수구 하모니로 158 송도 타임스페이스 C동 105호 미육",
-    "phone": "0507-1372-2154",
-    "images": [
-      "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20210408_196%2F1617881223346cIYi1_JPEG%2FtxMWZqxF30FcVN4igqH7AMc1.jpg",
-      "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20210408_175%2F1617881600349SqzxW_JPEG%2FhE2AFg5lVFJtGhN81cFxM8JM.jpg",
-      "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20210408_18%2F1617881586825Iflai_JPEG%2F1aK8XQ_L4-COLH5pYQnXIM11.jpg"
-    ],
-    "description": "생전 듣도 보도못한 신박한 회전고깃집!! 한우 암소 사용 (워터에이징 으로 숙성) 혼밥/혼술하기 좋은 곳, 이색 데이트 하기 좋은 곳, 모임 하기 좋은 곳!  레일 위 돼지고기 부터 소고기, 양고끼 까지 취향별로 다양한 고기들을 골라먹는 송도 미육! 레일 위 다양한 향신료와 오일, 양념, 야채, 채소 등 맘껏 먹기 가능! 넘 맛있어서 계속 먹다가 옆에 접시 왕창 쌓여있음!! 친구들과 내기 한판?! 여긴 혼밥/혼술 하기도 좋아서 편하게 먹고 가는 것도 추천!",
-    "menus": [
-      { "name": "기본상차림(1인)", "price": "4,000원" },
-      { "name": "노랑 접시", "price": "3,900원" },
-      { "name": "초록 접시", "price": "5,900원" },
-      { "name": "파랑 접시", "price": "9,900원" },
-      { "name": "보라 접시", "price": "12,900원" },
-      { "name": "빨강 접시", "price": "14,900원" },
-      { "name": "스페셜 접시", "price": "19,900원" },
-      { "name": "공기밥", "price": "1,000원" },
-      { "name": "된장찌개", "price": "3,000원" },
-      { "name": "소고기 라면", "price": "6,000원" },
-      { "name": "육회", "price": "20,000원" },
-      { "name": "육회비빔밥+찌게 점심특선)", "price": "12,900원" },
-      { "name": "주류", "price": "변동" },
-      { "name": "소고기라면+밥 (점심특선)", "price": "6,900원" }
-    ]
-  },
-  {
-    "nid": 1703442786,
-    "season": 3,
-    "episode": 4,
-    "characteristic": "회떠주는PC방",
-    "name": "일진PC",
-    "coordinates": [37.2487028183522, 127.07958419461798],
-    "foodKind": "PC방",
-    "address": "경기 수원시 영통구 청명로 10 마크타워 101호",
-    "phone": "0507-1493-0303",
-    "images": [
-      "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20190906_194%2F1567771658925lyVUc_JPEG%2F5KxrMTNuMFbLlP1UhezUbsTM.jpg",
-      "https://search.pstatic.net/common/?autoRotate=true&type=w278_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20190906_239%2F15677716615511vYJf_JPEG%2F3p4pxw4clNvuW_5yNbXoAwG3.jpg",
-      "https://search.pstatic.net/common/?autoRotate=true&type=w278_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20190906_260%2F1567771664585G2NY7_JPEG%2FXamwWeOW2z-FoGZ-qgSvWHRO.jpg"
-    ],
+    "nid": 1709569478,
+    "characteristic": "오아",
+    "name": "오아",
+    "coordinates": [37.5412574, 126.7372842],
+    "foodKind": "음식점",
+    "address": "인천광역시 계양구 계양문화로 119 301동 1층 137호",
+    "phone": "0507-1309-4562",
+    "images": [],
     "description": "",
     "menus": []
   },
   {
-    "nid": 1177874786,
-    "season": 3,
-    "episode": 4,
-    "characteristic": "직원보러가는식당",
-    "name": "콘크리트 정글",
-    "coordinates": [37.2309265, 127.18776339999998],
-    "foodKind": "요리주점",
-    "address": "경기 용인시 처인구 명지로60번길 8-4 6층 601호",
-    "phone": "0507-1359-1850",
+    "nid": 1476094770,
+    "characteristic": "굿비거닝",
+    "name": "굿비거닝",
+    "coordinates": [37.4530751, 126.7031985],
+    "foodKind": "음식점",
+    "address": "인천광역시 남동구 인주대로591번길 64 타원벨라움 105호",
+    "phone": "0507-1340-9703",
     "images": [
-      "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20201212_56%2F1607781104216SMKJV_JPEG%2FldqGmpOhsOBjQ5XNQZeWz-r0.jpeg.jpg",
-      "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20201214_241%2F1607955368864uQ1Fy_JPEG%2F0X8vJKRMCzKWK4r6rXoanxcd.jpeg.jpg",
-      "https://search.pstatic.net/common/?autoRotate=true&type=w278_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20201214_251%2F1607927134829ECTPd_JPEG%2F-ATTfH-FBDf6NBHY7f7g5PCQ.jpeg.jpg"
+      "https://ldb-phinf.pstatic.net/20220603_241/1654245265433z308Y_JPEG/KakaoTalk_20220531_154633220.jpg",
+      "https://ldb-phinf.pstatic.net/20220527_37/1653624942643ExIJy_JPEG/%B1%C2%BA%F1%B0%C5%B4%D7_%BE%D5%C6%C7.jpg",
+      "https://ldb-phinf.pstatic.net/20220521_287/1653127244940p7AaF_JPEG/IMG_20220520_182111_396.jpg"
     ],
-    "description": "두번의 실패는 없다. 그동안 쌓아온 노하우와 영혼을 갈아 만든 신개념 술집",
+    "description": "",
     "menus": [
-      { "name": "순창 고추장 찌개", "price": "14,900원" },
-      { "name": "트러플 감자튀김", "price": "8,900원" },
-      { "name": "고기가 짜글짜글 (짜글이)", "price": "15,900원" },
-      { "name": "봉골레 탕", "price": "15,900원" },
-      { "name": "상점 10점 제육볶음", "price": "14,900원" },
-      { "name": "모듬 어묵탕", "price": "14,900원" },
-      { "name": "정글 피자", "price": "15,900원" },
-      { "name": "정글 나베", "price": "15,900원" },
-      { "name": "소떡소떡", "price": "9,900원" },
-      { "name": "정글라면 (불닭or짜장)", "price": "7,900원" },
-      { "name": "파인 샤베트", "price": "7,900원" },
-      { "name": "떡떡꼬꼬치치", "price": "5,000원" },
-      { "name": "차둘 숙주 볶음", "price": "11,900원" },
-      { "name": "정글 순대 볶음", "price": "15,900원" },
-      { "name": "로제 떡볶이", "price": "14,900원" }
+      {
+        "name": "찹쌀타르트",
+        "price": "5,000"
+      },
+      {
+        "name": "레몬에이드",
+        "price": "5,000"
+      },
+      {
+        "name": "패션후르츠",
+        "price": "장미에이드"
+      },
+      {
+        "name": "자몽에이드",
+        "price": "5,000"
+      },
+      {
+        "name": "딸기라떼",
+        "price": "4,500"
+      },
+      {
+        "name": "블루베리라떼",
+        "price": "4,500"
+      },
+      {
+        "name": "생강라떼",
+        "price": "5,000"
+      },
+      {
+        "name": "생강차",
+        "price": "5,000"
+      },
+      {
+        "name": "애플시나몬차",
+        "price": "5,000"
+      },
+      {
+        "name": "딸기에이드",
+        "price": "4,500"
+      },
+      {
+        "name": "블루베리에이드",
+        "price": "4,500"
+      }
     ]
+  },
+  {
+    "nid": 1317825630,
+    "characteristic": "더데이 브런치앤펍",
+    "name": "더데이 브런치앤펍",
+    "coordinates": [37.4652259, 126.7148981],
+    "foodKind": "음식점",
+    "address": "인천광역시 남동구 간석로66번길 28 1층 105호 더데이, 브런치앤펍",
+    "phone": "0507-1478-1336",
+    "images": [
+      "https://ldb-phinf.pstatic.net/20230225_293/1677327110710MidyA_JPEG/1677327070222-3.jpg",
+      "https://ldb-phinf.pstatic.net/20230328_49/16800023417385tSaM_JPEG/KakaoTalk_20230328_145222067_17.jpg",
+      "https://ldb-phinf.pstatic.net/20230328_39/1680002341750jJdVb_JPEG/KakaoTalk_20230328_145222067_19.jpg"
+    ],
+    "description": "",
+    "menus": [
+      {
+        "name": "농어버터구이스테이크",
+        "price": "20,000"
+      },
+      {
+        "name": "국물떡볶이",
+        "price": "12,000"
+      },
+      {
+        "name": "해물명란크림떡볶이",
+        "price": "18,000"
+      },
+      {
+        "name": "매콤로제떡볶이",
+        "price": "16,000"
+      },
+      {
+        "name": "마라떡볶이",
+        "price": "16,000"
+      },
+      {
+        "name": "양념치킨",
+        "price": "20,000"
+      },
+      {
+        "name": "순살국물찜닭",
+        "price": "25,000"
+      },
+      {
+        "name": "시카고피자",
+        "price": "18,000"
+      },
+      {
+        "name": "핫윙&봉",
+        "price": "18,000"
+      },
+      {
+        "name": "모듬튀김",
+        "price": "10,000"
+      },
+      {
+        "name": "버터갈릭감자튀김",
+        "price": "10,000"
+      },
+      {
+        "name": "왕만두",
+        "price": "10,000"
+      },
+      {
+        "name": "백합술찜",
+        "price": "16,000"
+      },
+      {
+        "name": "오뎅탕",
+        "price": "16,000"
+      },
+      {
+        "name": "맵달삼겹볶음",
+        "price": "16,000"
+      },
+      {
+        "name": "해물고기순두부찌개",
+        "price": "16,000"
+      },
+      {
+        "name": "명란",
+        "price": "폭탄계란찜"
+      },
+      {
+        "name": "삼겹살김치볶음밥",
+        "price": "10,000"
+      },
+      {
+        "name": "새우볶음밥",
+        "price": "10,000"
+      },
+      {
+        "name": "얼큰해물라면",
+        "price": "10,000"
+      },
+      {
+        "name": "하이볼",
+        "price": "7,500"
+      },
+      {
+        "name": "1664블랑",
+        "price": "8,000"
+      },
+      {
+        "name": "소주",
+        "price": "5,000"
+      },
+      {
+        "name": "맥주",
+        "price": "5,000"
+      },
+      {
+        "name": "음료",
+        "price": "2,000"
+      },
+      {
+        "name": "아메리카노",
+        "price": "5,500"
+      },
+      {
+        "name": "복숭아아아이스티",
+        "price": "5,500"
+      },
+      {
+        "name": "카페라떼",
+        "price": "6,000"
+      },
+      {
+        "name": "초코라떼",
+        "price": "5,500"
+      },
+      {
+        "name": "말차라떼",
+        "price": "5,500"
+      },
+      {
+        "name": "딸기라떼",
+        "price": "6,500"
+      },
+      {
+        "name": "딸기에이드",
+        "price": "6,500"
+      },
+      {
+        "name": "딸기스무디",
+        "price": "6,900"
+      },
+      {
+        "name": "아포가토",
+        "price": "6,900"
+      },
+      {
+        "name": "코코넛연유라떼",
+        "price": "6,900"
+      },
+      {
+        "name": "햇반",
+        "price": "2,000"
+      },
+      {
+        "name": "에어살균샤워",
+        "price": "1,000"
+      }
+    ]
+  },
+  {
+    "nid": 1798252348,
+    "characteristic": "카페 쏭스토랑",
+    "name": "카페 쏭스토랑",
+    "coordinates": [37.4710841, 126.8136921],
+    "foodKind": "음식점",
+    "address": "경기도 부천시 양지남로 17 1층",
+    "phone": "0507-1409-7801",
+    "images": [
+      "https://ldb-phinf.pstatic.net/20220918_228/16634913086418LoTg_JPEG/9FA5BCEF-5EA3-4FE2-A991-ACE664207BB8.jpeg",
+      "https://ldb-phinf.pstatic.net/20220703_203/1656834036535BeHxk_JPEG/895F1E1F-7C48-44A9-AC04-D4DFF40EA4A4.jpeg",
+      "https://ldb-phinf.pstatic.net/20220703_149/1656834035648scYLx_JPEG/F96A625B-D3CF-4F56-B506-DC1695C85C25.jpeg"
+    ],
+    "description": "",
+    "menus": [
+      {
+        "name": "허니버터브레드",
+        "price": "6,500"
+      },
+      {
+        "name": "아메리카노",
+        "price": "3,500"
+      },
+      {
+        "name": "레몬에이드",
+        "price": "5,500"
+      },
+      {
+        "name": "자몽에이드",
+        "price": "5,500"
+      }
+    ]
+  },
+  {
+    "nid": 1048297628,
+    "characteristic": "듀잇",
+    "name": "듀잇",
+    "coordinates": [37.5332757, 126.6455222],
+    "foodKind": "음식점",
+    "address": "인천광역시 서구 청라커낼로288번길 8-10 청라봄빌딩 B106호",
+    "phone": "0507-1336-9712",
+    "images": [
+      "https://ldb-phinf.pstatic.net/20230415_99/1681540089233GxjT5_JPEG/KakaoTalk_Photo_2023-04-15-15-27-14_001.jpeg",
+      "https://ldb-phinf.pstatic.net/20230415_231/1681540089352ylbCG_JPEG/KakaoTalk_Photo_2023-04-15-15-27-15_003.jpeg",
+      "https://ldb-phinf.pstatic.net/20230415_86/1681540089581lfRMB_JPEG/KakaoTalk_Photo_2023-04-15-15-27-15_002.jpeg"
+    ],
+    "description": "",
+    "menus": [
+      {
+        "name": "도시락케이크",
+        "price": "30,000"
+      },
+      {
+        "name": "쁘띠전신입체케이크",
+        "price": "50,000"
+      },
+      {
+        "name": "기본전신입체케이크",
+        "price": "55,000"
+      }
+    ]
+  },
+  {
+    "nid": 1304262793,
+    "characteristic": "데스툴",
+    "name": "데스툴",
+    "coordinates": [37.5695541, 126.9318126],
+    "foodKind": "음식점",
+    "address": "서울특별시 서대문구 연희로25길 98 2층",
+    "phone": "0507-1382-3421",
+    "images": [
+      "https://ldb-phinf.pstatic.net/20220602_140/16541359842603Yr7x_JPEG/_92A2481_.jpg",
+      "https://ldb-phinf.pstatic.net/20220602_69/1654135985339nRG9x_JPEG/_92A2906_.jpg",
+      "https://ldb-phinf.pstatic.net/20220602_97/1654135984398PGKzz_JPEG/_92A2569_.jpg"
+    ],
+    "description": "",
+    "menus": [
+      {
+        "name": "카페라떼",
+        "price": "6,000"
+      }
+    ]
+  },
+  {
+    "nid": 1600562477,
+    "characteristic": "공들인하루",
+    "name": "공들인하루",
+    "coordinates": [37.4850779, 126.9264652],
+    "foodKind": "음식점",
+    "address": "서울특별시 관악구 관천로10길 20 1층",
+    "phone": "0507-1375-1306",
+    "images": [
+      "https://ldb-phinf.pstatic.net/20230808_136/169146186073443ucr_JPEG/IMG_1964.jpeg",
+      "https://ldb-phinf.pstatic.net/20211108_69/1636360294018xu9Qd_JPEG/kpeDaYTTkVgm8rEzGWfvu_as.jpeg.jpg",
+      "https://ldb-phinf.pstatic.net/20230808_143/1691461862931jH9zP_JPEG/8C56BE78-418F-4F01-ABDA-EEB2042B69BD-36751-00000742903918AE.jpeg"
+    ],
+    "description": "",
+    "menus": [
+      {
+        "name": "수제과일그릭요거트",
+        "price": "5,000"
+      },
+      {
+        "name": "건강타르트(수제간식)",
+        "price": "3,500"
+      },
+      {
+        "name": "과일가득크로플",
+        "price": "6,000"
+      },
+      {
+        "name": "베이글피자빵",
+        "price": "3,800"
+      },
+      {
+        "name": "고구마코코넛볼",
+        "price": "3,000"
+      },
+      {
+        "name": "컵빙수",
+        "price": "6,000"
+      },
+      {
+        "name": "토마토바질에이드",
+        "price": "6,000"
+      },
+      {
+        "name": "수박주스",
+        "price": "5,000"
+      },
+      {
+        "name": "에그마요샌드위치",
+        "price": "5,000"
+      }
+    ]
+  },
+  {
+    "nid": 1576224030,
+    "characteristic": "메이킷 카페",
+    "name": "메이킷 카페",
+    "coordinates": [37.5097026, 127.0547033],
+    "foodKind": "음식점",
+    "address": "서울특별시 강남구 삼성로 535 1층 메이킷카페",
+    "phone": "070-8623-9333",
+    "images": [
+      "https://ldb-phinf.pstatic.net/20220725_139/1658756293945RtkMx_JPEG/m7v1LqadVw_IMenpEOctYRv8.jpg",
+      "https://ldb-phinf.pstatic.net/20220725_180/1658756294632tLX4v_JPEG/5IJ4qWDG46ffixYqBw93Jveg.jpg",
+      "https://ldb-phinf.pstatic.net/20220725_258/16587562951475fp3q_JPEG/SI6yQ1iYLTR-qfnW0iWvTpz6.jpg"
+    ],
+    "description": "",
+    "menus": [
+      {
+        "name": "아메리카노",
+        "price": "4,000"
+      },
+      {
+        "name": "카페라떼",
+        "price": "4,500"
+      },
+      {
+        "name": "메이킷크림라떼",
+        "price": "6,000"
+      },
+      {
+        "name": "퍼푸치노세트",
+        "price": "3,500"
+      }
+    ]
+  },
+
+  {
+    "nid": 1921874344,
+    "characteristic": "오프커피",
+    "name": "오프커피",
+    "coordinates": [37.5436216, 127.0527485],
+    "foodKind": "음식점",
+    "address": "서울특별시 성동구 연무장길 29-17 1F 오프커피",
+    "phone": "010-3388-5539",
+    "images": [
+      "https://ldb-phinf.pstatic.net/20221022_135/1666434241764B0Wzq_JPEG/A9BD3EF1-6B02-4225-81BF-18F9E722EC72.jpeg",
+      "https://ldb-phinf.pstatic.net/20221022_283/1666434196584G89vv_JPEG/C8F6889E-1193-4A90-B066-78322D121C2F.jpeg",
+      "https://ldb-phinf.pstatic.net/20221022_74/1666434196503dMJGJ_JPEG/2D0B02EC-FC76-4756-B916-219956076C36.jpeg"
+    ],
+    "description": "",
+    "menus": [
+      {
+        "name": "아메리카노",
+        "price": "4,500"
+      },
+      {
+        "name": "카페라떼",
+        "price": "5,000"
+      },
+      {
+        "name": "크림라떼",
+        "price": "5,500"
+      },
+      {
+        "name": "바닐라라떼",
+        "price": "5,200"
+      },
+      {
+        "name": "아인슈페너",
+        "price": "5,200"
+      },
+      {
+        "name": "말샷추",
+        "price": "6,500"
+      },
+      {
+        "name": "레샷추",
+        "price": "6,500"
+      },
+      {
+        "name": "말차라떼",
+        "price": "5,700"
+      },
+      {
+        "name": "카라멜초코라떼",
+        "price": "6,000"
+      },
+      {
+        "name": "플레인요거트",
+        "price": "5,200"
+      },
+      {
+        "name": "키위요거트",
+        "price": "5,700"
+      },
+      {
+        "name": "딸기요거트",
+        "price": "5,700"
+      },
+      {
+        "name": "레몬에이드",
+        "price": "6,000"
+      },
+      {
+        "name": "블루베리스무디",
+        "price": "6,500"
+      },
+      {
+        "name": "딸기스무디",
+        "price": "6,500"
+      },
+      {
+        "name": "바질레몬슬러쉬",
+        "price": "6,500"
+      },
+      {
+        "name": "파인그린에이드",
+        "price": "6,500"
+      },
+      {
+        "name": "레몬젤라또",
+        "price": "6,000"
+      },
+      {
+        "name": "바질레몬젤라또",
+        "price": "6,500"
+      },
+      {
+        "name": "버터쿠키",
+        "price": "2,000"
+      },
+      {
+        "name": "오프",
+        "price": "크로아상"
+      },
+      {
+        "name": "버터스콘",
+        "price": "4,000"
+      },
+      {
+        "name": "초코칩스콘",
+        "price": "5,200"
+      },
+      {
+        "name": "얼그레이스콘",
+        "price": "5,200"
+      }
+    ]
+  },
+  {
+    "nid": 1255286301,
+    "characteristic": "널독",
+    "name": "널독",
+    "coordinates": [37.5547496, 126.9045632],
+    "foodKind": "음식점",
+    "address": "서울특별시 마포구 희우정로16길 46 1층 널독NERDOG",
+    "phone": "0507-1303-4873",
+    "images": [
+      "https://ldb-phinf.pstatic.net/20220425_73/1650878228113wK1fX_PNG/09682F56-7987-4BDA-93DF-0DAE90680EA3.png",
+      "https://ldb-phinf.pstatic.net/20220612_19/1655016235612TMmMz_JPEG/%B0%B3%C5%E4%BD%BA.jpg",
+      "https://ldb-phinf.pstatic.net/20220612_184/1655016149247gca0u_JPEG/KakaoTalk_20220512_165145673_03.jpg"
+    ],
+    "description": "",
+    "menus": [
+      {
+        "name": "개토스",
+        "price": "6,900"
+      },
+      {
+        "name": "야두부칩",
+        "price": "6,500"
+      },
+      {
+        "name": "널푸치노+널독쿠키",
+        "price": "4,000"
+      },
+      {
+        "name": "널독쿠키",
+        "price": "5,900"
+      },
+      {
+        "name": "크로플",
+        "price": "5,500"
+      }
+    ]
+  },
+  {
+    "nid": 1145440406,
+    "characteristic": "마켓방실",
+    "name": "마켓방실",
+    "coordinates": [37.564961, 126.9229986],
+    "foodKind": "음식점",
+    "address": "서울특별시 마포구 성미산로 153-13 1.5층 마켓방실",
+    "phone": "0507-1329-0124",
+    "images": [
+      "https://ldb-phinf.pstatic.net/20230427_34/1682586721476K4rBT_JPEG/KakaoTalk_20230427_181125560_03.jpg",
+      "https://ldb-phinf.pstatic.net/20230427_90/1682586719869hBESF_JPEG/KakaoTalk_20230427_181125560_02.jpg",
+      "https://ldb-phinf.pstatic.net/20230427_290/168258672218194td8_JPEG/KakaoTalk_20230427_181125560.jpg"
+    ],
+    "description": "",
+    "menus": [
+      {
+        "name": "메론소다",
+        "price": "6,500"
+      },
+      {
+        "name": "빵빠레라떼",
+        "price": "7,000"
+      },
+      {
+        "name": "방실이버터바",
+        "price": "변동가격(업주문의)"
+      },
+      {
+        "name": "아메리카노",
+        "price": "5,000"
+      }
+    ]
+  },
+  {
+    "nid": 1704459451,
+    "characteristic": "카페 가을",
+    "name": "카페 가을",
+    "coordinates": [37.654214, 126.7728879],
+    "foodKind": "음식점",
+    "address": "경기도 고양시 일산동구 정발산로 24 B동 257호 카페가을",
+    "phone": "031-907-8320",
+    "images": [
+      "https://ldb-phinf.pstatic.net/20230704_285/16884531927876ctJg_JPEG/KakaoTalk_20230704_152512659_03.jpg",
+      "https://ldb-phinf.pstatic.net/20230716_171/16894947104376fSKu_JPEG/906D59E1-881A-4914-BB6F-7A92A07F57AC.jpeg",
+      "https://ldb-phinf.pstatic.net/20230716_280/1689494712749CCEOb_JPEG/IMG_4371.jpeg"
+    ],
+    "description": "",
+    "menus": [
+      {
+        "name": "댕마카세",
+        "price": "변동가격(업주문의)"
+      },
+      {
+        "name": "크림치즈베이글",
+        "price": "4,500"
+      },
+
+      {
+        "name": "레몬에이드",
+        "price": "5,000"
+      },
+      {
+        "name": "아메리카노",
+        "price": "3,500"
+      }
+    ]
+  },
+  {
+    "nid": 1233474778,
+    "characteristic": "달콤공장",
+    "name": "달콤공장",
+    "coordinates": [37.2192922, 126.9465233],
+    "foodKind": "음식점",
+    "address": "경기도 화성시 봉담읍 장등2길 6-18 1층 101호, 102호",
+    "phone": "0507-1353-1910",
+    "images": [
+      "https://ldb-phinf.pstatic.net/20230710_187/1688996818614EbiLa_JPEG/Screenshot_20230710_224136_Chrome.jpg",
+      "https://ldb-phinf.pstatic.net/20230701_268/1688202316599lWwIz_JPEG/1687694354225.jpg",
+      "https://ldb-phinf.pstatic.net/20230701_173/1688202324914GjRuY_JPEG/1687694354371.jpg"
+    ],
+    "description": "",
+    "menus": [
+      {
+        "name": "마카롱",
+        "price": "2,800~3,200"
+      },
+      {
+        "name": "미니마카롱세트",
+        "price": "6,000"
+      },
+      {
+        "name": "강아지쿠키",
+        "price": "5,000"
+      },
+      {
+        "name": "모카초코쿠키",
+        "price": "4,800"
+      },
+      {
+        "name": "아몬드쿠키",
+        "price": "4,800"
+      },
+      {
+        "name": "초코칩쿠키",
+        "price": "4,800"
+      },
+      {
+        "name": "꼬끄후레이크",
+        "price": "4,800"
+      },
+      {
+        "name": "피넛프레첼쿠키",
+        "price": "5,800"
+      },
+      {
+        "name": "초코바닐라쿠키",
+        "price": "4,800"
+      },
+      {
+        "name": "원숭이초코바나나쿠키",
+        "price": "6,000"
+      },
+      {
+        "name": "스모어쿠키",
+        "price": "3,800"
+      },
+      {
+        "name": "초코크런키",
+        "price": "4,800"
+      },
+      {
+        "name": "튀일",
+        "price": "6,000"
+      },
+      {
+        "name": "호두타르트",
+        "price": "4,500"
+      },
+      {
+        "name": "머랭쿠키",
+        "price": "4,500~5,000"
+      },
+      {
+        "name": "초코프레첼",
+        "price": "4,800"
+      },
+      {
+        "name": "황치즈쿠키",
+        "price": "5,000"
+      },
+      {
+        "name": "커피류",
+        "price": "2,500~4,300"
+      },
+      {
+        "name": "과일차",
+        "price": "3,000~3,500"
+      },
+      {
+        "name": "라떼",
+        "price": "4,300~4,800"
+      },
+      {
+        "name": "차류",
+        "price": "3,000~3,500"
+      },
+      {
+        "name": "스무디",
+        "price": "5,000"
+      },
+      {
+        "name": "멍푸치노",
+        "price": "5,000"
+      },
+      {
+        "name": "에이드",
+        "price": "5,000"
+      },
+      {
+        "name": "아이스티",
+        "price": "3,500~4,000"
+      }
+    ]
+  },
+  {
+    "nid": 1376498325,
+    "characteristic": "Moment de Bonheur",
+    "name": "Moment de Bonheur",
+    "coordinates": [37.2488506, 127.0160519],
+    "foodKind": "음식점",
+    "address": "경기도 수원시 권선구 경수대로225번길 24-33 1층",
+    "phone": "0507-1326-7947",
+    "images": [
+      "https://ldb-phinf.pstatic.net/20230721_186/1689916643336M2x8e_JPEG/IMG_0197.jpeg",
+      "https://ldb-phinf.pstatic.net/20230720_156/1689816744436x7V5G_JPEG/IMG_0160.jpeg",
+      "https://ldb-phinf.pstatic.net/20230720_284/16898167445127AM9d_JPEG/IMG_0155.jpeg"
+    ],
+    "description": "",
+    "menus": [
+      {
+        "name": "쿠키케이크",
+        "price": "18,000"
+      },
+      {
+        "name": "초코가니슈케이크",
+        "price": "14,000"
+      },
+
+      {
+        "name": "청귤에이드",
+        "price": "5,500"
+      },
+      {
+        "name": "소금빵",
+        "price": "2,500"
+      },
+      {
+        "name": "레몬에이드",
+        "price": "5,000"
+      },
+
+      {
+        "name": "아메리카노",
+        "price": "3,500"
+      },
+      {
+        "name": "보네르커피",
+        "price": "5,500"
+      },
+      {
+        "name": "모먼트커피",
+        "price": "5,500"
+      },
+      {
+        "name": "리치에이드",
+        "price": "5,000"
+      },
+      {
+        "name": "솔티카라멜",
+        "price": "5,500"
+      },
+      {
+        "name": "인절미라떼",
+        "price": "5,500"
+      }
+    ]
+  },
+  {
+    "nid": 1726755444,
+    "characteristic": "리액트",
+    "name": "리액트",
+    "coordinates": [37.1850144, 127.103634],
+    "foodKind": "음식점",
+    "address": "경기도 화성시 동탄대로14길 5-39 1층",
+    "phone": "0507-1333-9425",
+    "images": [
+      "https://ldb-phinf.pstatic.net/20230811_220/1691751670018s4sIj_JPEG/10A98BCC-94DC-4B17-AF48-9178C956F55F.jpeg",
+      "https://ldb-phinf.pstatic.net/20230811_111/1691741802479tuTC4_JPEG/IMG_8807.jpeg",
+      "https://ldb-phinf.pstatic.net/20230811_117/1691741802946d16X0_JPEG/IMG_9161.jpeg"
+    ],
+    "description": "",
+    "menus": [
+      {
+        "name": "흑임자크림케이크",
+        "price": "7,500"
+      },
+      {
+        "name": "레모니케이크",
+        "price": "6,500"
+      },
+      {
+        "name": "프로즌스모어",
+        "price": "5,500"
+      },
+      {
+        "name": "아메리카노",
+        "price": "4,500"
+      }
+    ]
+  },
+  {
+    "nid": 1733825626,
+    "characteristic": "초코앤멜로우",
+    "name": "초코앤멜로우",
+    "coordinates": [37.664275, 126.7881853],
+    "foodKind": "음식점",
+    "address": "경기도 고양시 일산동구 산두로 67 1층 초코앤멜로우",
+    "phone": "031-905-7604",
+    "images": [
+      "https://ldb-phinf.pstatic.net/20220408_4/1649345144380VvwgU_JPEG/50DA0CCF-2A0A-4CD5-9C83-DFD63E7206EE.jpeg",
+      "https://ldb-phinf.pstatic.net/20220408_263/1649345026199HmJ7o_JPEG/DC1B5184-E18B-481A-90D5-D01C94C13A11.jpeg",
+      "https://ldb-phinf.pstatic.net/20230825_1/1692948582433GhAGl_JPEG/029C3000-4B5B-4291-ADDF-180CE5884EAE.jpeg"
+    ],
+    "description": "",
+    "menus": [
+      {
+        "name": "멜로우크림라떼",
+        "price": "6,300"
+      }
+    ]
+  },
+  {
+    "nid": 1247837419,
+    "characteristic": "86coffee",
+    "name": "86coffee",
+    "coordinates": [37.2689703, 126.9587618],
+    "foodKind": "음식점",
+    "address": "경기도 수원시 권선구 매실로 73 1층 103호 86coffee",
+    "phone": "0507-1368-0831",
+    "images": [
+      "https://ldb-phinf.pstatic.net/20220722_167/1658470504716rPkDx_JPEG/707B4B25-D850-4582-AE62-FB9050256A71.jpeg",
+      "https://ldb-phinf.pstatic.net/20230321_288/1679395920972wqVXL_JPEG/C7C9EEC0-A1CA-4B6F-8570-204E20F4757B.jpeg",
+      "https://ldb-phinf.pstatic.net/20230321_195/1679395920962fYtRs_JPEG/140F0080-4177-47AB-B869-4A67BE7D2641.jpeg"
+    ],
+    "description": "",
+    "menus": [
+      {
+        "name": "코젤다크",
+        "price": "8,000"
+      },
+      {
+        "name": "스텔라",
+        "price": "8,000"
+      },
+      {
+        "name": "1664블랑",
+        "price": "9,000"
+      },
+      {
+        "name": "호가든",
+        "price": "7,000"
+      },
+      {
+        "name": "테라",
+        "price": "5,000"
+      },
+      {
+        "name": "카스",
+        "price": "5,000"
+      },
+      {
+        "name": "잭콕",
+        "price": "7,000"
+      },
+      {
+        "name": "하이볼",
+        "price": "6,000"
+      },
+      {
+        "name": "아그와밤",
+        "price": "6,000"
+      },
+      {
+        "name": "예거밤",
+        "price": "6,000"
+      },
+      {
+        "name": "엑스밤",
+        "price": "9,000"
+      },
+      {
+        "name": "코기",
+        "price": "0"
+      },
+      {
+        "name": "아메리카노",
+        "price": "3,500"
+      },
+      {
+        "name": "바닐라라떼",
+        "price": "4,300"
+      },
+      {
+        "name": "86딸기라떼",
+        "price": "5,000"
+      },
+      {
+        "name": "다트",
+        "price": "1,000"
+      },
+      {
+        "name": "머그잔",
+        "price": "12,500"
+      },
+      {
+        "name": "텀블러",
+        "price": "15,000"
+      },
+      {
+        "name": "카페라떼",
+        "price": "4,000"
+      },
+      {
+        "name": "카페모카",
+        "price": "4,300"
+      },
+      {
+        "name": "카라멜마끼아또",
+        "price": "4,300"
+      },
+      {
+        "name": "달고나라떼",
+        "price": "4,500"
+      },
+      {
+        "name": "아인슈페너",
+        "price": "5,000"
+      },
+      {
+        "name": "고구마라떼",
+        "price": "3,800"
+      },
+      {
+        "name": "스모어쿠키",
+        "price": "4,000"
+      },
+      {
+        "name": "조각케이크",
+        "price": "4,000"
+      },
+      {
+        "name": "크로플",
+        "price": "4,300"
+      },
+      {
+        "name": "딸기쥬스",
+        "price": "4,500"
+      },
+      {
+        "name": "플레인스무디",
+        "price": "5,000"
+      }
+    ]
+  },
+  {
+    "nid": 1039883453,
+    "characteristic": "멍필드",
+    "name": "멍필드",
+    "coordinates": [37.025876, 127.2658659],
+    "foodKind": "음식점",
+    "address": "경기도 안성시 실왕길 39 멍필드",
+    "phone": "0507-1382-1262",
+    "images": [
+      "https://ldb-phinf.pstatic.net/20221227_116/1672150608270NyKF6_JPEG/6EDD993E-9626-4F89-A9DC-D12E7A025481.jpeg",
+      "https://ldb-phinf.pstatic.net/20221007_147/1665129433845v5TKF_JPEG/F6BA07F5-1A6E-4CA8-8EA9-993EF0119615.jpeg",
+      "https://ldb-phinf.pstatic.net/20221007_237/16651294339788jbRY_JPEG/2C0F719F-1B01-4B17-AC60-83D6BFA38F97.jpeg"
+    ],
+    "description": "",
+    "menus": []
+  },
+  {
+    "nid": 1726755444,
+    "characteristic": "리액트",
+    "name": "리액트",
+    "coordinates": [37.1850144, 127.103634],
+    "foodKind": "음식점",
+    "address": "경기도 화성시 동탄대로14길 5-39 1층",
+    "phone": "0507-1333-9425",
+    "images": [
+      "https://ldb-phinf.pstatic.net/20230811_220/1691751670018s4sIj_JPEG/10A98BCC-94DC-4B17-AF48-9178C956F55F.jpeg",
+      "https://ldb-phinf.pstatic.net/20230811_111/1691741802479tuTC4_JPEG/IMG_8807.jpeg",
+      "https://ldb-phinf.pstatic.net/20230811_117/1691741802946d16X0_JPEG/IMG_9161.jpeg"
+    ],
+    "description": "",
+    "menus": [
+      {
+        "name": "흑임자크림케이크",
+        "price": "7,500"
+      },
+      {
+        "name": "레모니케이크",
+        "price": "6,500"
+      },
+      {
+        "name": "프로즌스모어",
+        "price": "5,500"
+      },
+      {
+        "name": "아메리카노",
+        "price": "4,500"
+      }
+    ]
+  },
+  {
+    "nid": 1233474778,
+    "characteristic": "달콤공장",
+    "name": "달콤공장",
+    "coordinates": [37.2192922, 126.9465233],
+    "foodKind": "음식점",
+    "address": "경기도 화성시 봉담읍 장등2길 6-18 1층 101호, 102호",
+    "phone": "0507-1353-1910",
+    "images": [
+      "https://ldb-phinf.pstatic.net/20230710_187/1688996818614EbiLa_JPEG/Screenshot_20230710_224136_Chrome.jpg",
+      "https://ldb-phinf.pstatic.net/20230701_268/1688202316599lWwIz_JPEG/1687694354225.jpg",
+      "https://ldb-phinf.pstatic.net/20230701_173/1688202324914GjRuY_JPEG/1687694354371.jpg"
+    ],
+    "description": "",
+    "menus": [
+      {
+        "name": "마카롱",
+        "price": "2,800~3,200"
+      },
+      {
+        "name": "미니마카롱세트",
+        "price": "6,000"
+      },
+      {
+        "name": "강아지쿠키",
+        "price": "5,000"
+      },
+      {
+        "name": "곰",
+        "price": "초코"
+      },
+      {
+        "name": "아몬드",
+        "price": "곰"
+      },
+      {
+        "name": "모카초코쿠키",
+        "price": "4,800"
+      },
+      {
+        "name": "아몬드쿠키",
+        "price": "4,800"
+      },
+      {
+        "name": "초코칩쿠키",
+        "price": "4,800"
+      },
+      {
+        "name": "꼬끄후레이크",
+        "price": "4,800"
+      },
+      {
+        "name": "피넛프레첼쿠키",
+        "price": "5,800"
+      },
+      {
+        "name": "초코바닐라쿠키",
+        "price": "4,800"
+      },
+      {
+        "name": "원숭이초코바나나쿠키",
+        "price": "6,000"
+      },
+      {
+        "name": "스모어쿠키",
+        "price": "3,800"
+      },
+      {
+        "name": "초코크런키",
+        "price": "4,800"
+      },
+      {
+        "name": "튀일",
+        "price": "6,000"
+      },
+      {
+        "name": "호두타르트",
+        "price": "4,500"
+      },
+      {
+        "name": "머랭쿠키",
+        "price": "4,500~5,000"
+      },
+      {
+        "name": "초코프레첼",
+        "price": "4,800"
+      },
+      {
+        "name": "황치즈쿠키",
+        "price": "5,000"
+      },
+      {
+        "name": "커피류",
+        "price": "2,500~4,300"
+      },
+      {
+        "name": "과일차",
+        "price": "3,000~3,500"
+      },
+      {
+        "name": "라떼",
+        "price": "4,300~4,800"
+      },
+      {
+        "name": "차류",
+        "price": "3,000~3,500"
+      },
+      {
+        "name": "스무디",
+        "price": "5,000"
+      },
+      {
+        "name": "멍푸치노",
+        "price": "5,000"
+      },
+      {
+        "name": "에이드",
+        "price": "5,000"
+      },
+      {
+        "name": "아이스티",
+        "price": "3,500~4,000"
+      }
+    ]
+  },
+
+  {
+    "nid": 1247837419,
+    "characteristic": "86coffee",
+    "name": "86coffee",
+    "coordinates": [37.2689703, 126.9587618],
+    "foodKind": "음식점",
+    "address": "경기도 수원시 권선구 매실로 73 1층 103호 86coffee",
+    "phone": "0507-1368-0831",
+    "images": [
+      "https://ldb-phinf.pstatic.net/20220722_167/1658470504716rPkDx_JPEG/707B4B25-D850-4582-AE62-FB9050256A71.jpeg",
+      "https://ldb-phinf.pstatic.net/20230321_288/1679395920972wqVXL_JPEG/C7C9EEC0-A1CA-4B6F-8570-204E20F4757B.jpeg",
+      "https://ldb-phinf.pstatic.net/20230321_195/1679395920962fYtRs_JPEG/140F0080-4177-47AB-B869-4A67BE7D2641.jpeg"
+    ],
+    "description": "",
+    "menus": [
+      {
+        "name": "코젤다크",
+        "price": "8,000"
+      },
+      {
+        "name": "스텔라",
+        "price": "8,000"
+      },
+      {
+        "name": "1664블랑",
+        "price": "9,000"
+      },
+      {
+        "name": "호가든",
+        "price": "7,000"
+      },
+      {
+        "name": "테라",
+        "price": "5,000"
+      },
+      {
+        "name": "카스",
+        "price": "5,000"
+      },
+      {
+        "name": "잭콕",
+        "price": "7,000"
+      },
+      {
+        "name": "하이볼",
+        "price": "6,000"
+      },
+      {
+        "name": "아그와밤",
+        "price": "6,000"
+      },
+      {
+        "name": "예거밤",
+        "price": "6,000"
+      },
+      {
+        "name": "엑스밤",
+        "price": "9,000"
+      },
+      {
+        "name": "아메리카노",
+        "price": "3,500"
+      },
+      {
+        "name": "바닐라라떼",
+        "price": "4,300"
+      },
+      {
+        "name": "86딸기라떼",
+        "price": "5,000"
+      },
+      {
+        "name": "다트",
+        "price": "1,000"
+      },
+      {
+        "name": "머그잔",
+        "price": "12,500"
+      },
+      {
+        "name": "텀블러",
+        "price": "15,000"
+      },
+      {
+        "name": "카페라떼",
+        "price": "4,000"
+      },
+      {
+        "name": "카페모카",
+        "price": "4,300"
+      },
+      {
+        "name": "카라멜마끼아또",
+        "price": "4,300"
+      },
+      {
+        "name": "달고나라떼",
+        "price": "4,500"
+      },
+      {
+        "name": "아인슈페너",
+        "price": "5,000"
+      },
+      {
+        "name": "고구마라떼",
+        "price": "3,800"
+      },
+      {
+        "name": "스모어쿠키",
+        "price": "4,000"
+      },
+      {
+        "name": "조각케이크",
+        "price": "4,000"
+      },
+      {
+        "name": "크로플",
+        "price": "4,300"
+      },
+      {
+        "name": "딸기쥬스",
+        "price": "4,500"
+      },
+      {
+        "name": "플레인스무디",
+        "price": "5,000"
+      }
+    ]
+  },
+  {
+    "nid": 1015419640,
+    "characteristic": "도도미미카페",
+    "name": "도도미미카페",
+    "coordinates": [37.2714699, 127.1512271],
+    "foodKind": "음식점",
+    "address": "경기도 용인시 기흥구 동백3로11번길 33 새롬프라자 111호",
+    "phone": "0507-1374-1176",
+    "images": [
+      "https://ldb-phinf.pstatic.net/20220810_16/16601136708874h9KI_JPEG/E53D6EC5-947B-4088-BBA3-CD29510D208A.jpeg",
+      "https://ldb-phinf.pstatic.net/20220810_114/1660113669501Unxhh_JPEG/64EABBEF-A052-4CFA-B5C1-8AEF4CE4631B.jpeg",
+      "https://ldb-phinf.pstatic.net/20220810_272/1660113670574eYzLw_JPEG/07CCFF83-FA7B-4B3B-87BB-0981813AE2C2.jpeg"
+    ],
+    "description": "",
+    "menus": [
+      {
+        "name": "도도에이드",
+        "price": "6,000"
+      },
+      {
+        "name": "칵테일",
+        "price": "7,000"
+      }
+    ]
+  },
+  {
+    "nid": 1864940796,
+    "characteristic": "카페 까까",
+    "name": "카페 까까",
+    "coordinates": [37.2930701, 127.3829519],
+    "foodKind": "음식점",
+    "address": "경기도 이천시 신둔면 도자예술로62번길 27-19 카페까까",
+    "phone": "0507-1410-3513",
+    "images": [
+      "https://ldb-phinf.pstatic.net/20211006_109/1633483064535bIMOx_JPEG/ms2T37OsmeqSwlx7d0-HTbF0.jpg",
+      "https://ldb-phinf.pstatic.net/20211006_155/1633483137262W4RBe_JPEG/yRIrgAdo14HoMYNceCVBtItT.jpg",
+      "https://ldb-phinf.pstatic.net/20211006_196/1633483208091ULdtI_JPEG/-e-c2D1quTmEQz3HkDo0QOUt.jpg"
+    ],
+    "description": "",
+    "menus": [
+      {
+        "name": "라이스라떼",
+        "price": "5,500"
+      },
+      {
+        "name": "요거트스무디",
+        "price": "5,500"
+      }
+    ]
+  },
+  {
+    "nid": 1518503360,
+    "characteristic": "네추럴그라스",
+    "name": "네추럴그라스",
+    "coordinates": [37.1248274, 127.6158787],
+    "foodKind": "애견카페",
+    "address": "경기도 이천시 장호원읍 샘재로 5 1층",
+    "phone": "0507-1365-2843",
+    "images": [
+      "https://ldb-phinf.pstatic.net/20220805_292/16596850833427JABE_JPEG/KakaoTalk_20220731_044736422.jpg",
+      "https://ldb-phinf.pstatic.net/20220805_244/1659685083819pKU96_JPEG/ldEw0HJ7OHLUlNTTuRzTiVz_.jpeg.jpg",
+      "https://ldb-phinf.pstatic.net/20220805_42/1659685091657Rs8EO_JPEG/5FCD0A7A-35C7-4174-88DB-77F32C1AD704.jpeg"
+    ],
+    "description": "",
+    "menus": [
+      {
+        "name": "아메리카노",
+        "price": "5,500"
+      }
+    ]
+  },
+  {
+    "nid": 1594263714,
+    "characteristic": "해피버트데이",
+    "name": "해피버트데이",
+    "coordinates": [37.4657015, 127.142517],
+    "foodKind": "음식점",
+    "address": "경기도 성남시 수정구 위례광장로 12 6B-116호",
+    "phone": "0507-1477-3375",
+    "images": [
+      "https://ldb-phinf.pstatic.net/20230618_216/1687096044889a7Aud_JPEG/KOLORO_1687095696593.jpg",
+      "https://ldb-phinf.pstatic.net/20230618_122/16870960514564ETi5_JPEG/KOLORO_1687095893744.jpg",
+      "https://ldb-phinf.pstatic.net/20230207_183/1675754302096inSAf_JPEG/%C0%FC%B8%E9%BB%E7%C1%F82.jpg"
+    ],
+    "description": "",
+    "menus": [
+      {
+        "name": "알사탕슈페너",
+        "price": "6,800"
+      },
+      {
+        "name": "블보라에이드",
+        "price": "6,800"
+      },
+      {
+        "name": "아메리카노",
+        "price": "4,000"
+      }
+    ]
+  },
+  {
+    "nid": 1599352099,
+    "characteristic": "카페파란문",
+    "name": "카페파란문",
+    "coordinates": [36.915324, 128.5735558],
+    "foodKind": "음식점",
+    "address": "경상북도 영주시 순흥면 소백로 2633 카페파란문",
+    "phone": "0507-1328-3104",
+    "images": [
+      "https://ldb-phinf.pstatic.net/20230330_123/16801417330956IWSM_JPEG/20230329_183817.jpg",
+      "https://ldb-phinf.pstatic.net/20230815_248/1692068111868J7BfB_JPEG/20230815_113136.jpg",
+      "https://ldb-phinf.pstatic.net/20230513_276/1683947216913CqPNz_JPEG/20230512_122010.jpg"
+    ],
+    "description": "",
+    "menus": [
+      {
+        "name": "카페라떼",
+        "price": "변동가격(업주문의)"
+      }
+    ]
+  },
+  {
+    "nid": 1576224030,
+    "characteristic": "메이킷 카페",
+    "name": "메이킷 카페",
+    "coordinates": [37.5097026, 127.0547033],
+    "foodKind": "음식점",
+    "address": "서울특별시 강남구 삼성로 535 1층 메이킷카페",
+    "phone": "070-8623-9333",
+    "images": [
+      "https://ldb-phinf.pstatic.net/20220725_139/1658756293945RtkMx_JPEG/m7v1LqadVw_IMenpEOctYRv8.jpg",
+      "https://ldb-phinf.pstatic.net/20220725_180/1658756294632tLX4v_JPEG/5IJ4qWDG46ffixYqBw93Jveg.jpg",
+      "https://ldb-phinf.pstatic.net/20220725_258/16587562951475fp3q_JPEG/SI6yQ1iYLTR-qfnW0iWvTpz6.jpg"
+    ],
+    "description": "",
+    "menus": [
+      {
+        "name": "아메리카노",
+        "price": "4,000"
+      },
+      {
+        "name": "카페라떼",
+        "price": "4,500"
+      },
+      {
+        "name": "메이킷크림라떼",
+        "price": "6,000"
+      },
+      {
+        "name": "소금",
+        "price": "베이글"
+      },
+      {
+        "name": "애플",
+        "price": "루꼴라"
+      },
+      {
+        "name": "잠봉뵈르",
+        "price": "베이글"
+      },
+      {
+        "name": "퍼푸치노세트",
+        "price": "3,500"
+      }
+    ]
+  },
+  {
+    "nid": 1304262793,
+    "characteristic": "데스툴",
+    "name": "데스툴",
+    "coordinates": [37.5695541, 126.9318126],
+    "foodKind": "음식점",
+    "address": "서울특별시 서대문구 연희로25길 98 2층",
+    "phone": "0507-1382-3421",
+    "images": [
+      "https://ldb-phinf.pstatic.net/20220602_140/16541359842603Yr7x_JPEG/_92A2481_.jpg",
+      "https://ldb-phinf.pstatic.net/20220602_69/1654135985339nRG9x_JPEG/_92A2906_.jpg",
+      "https://ldb-phinf.pstatic.net/20220602_97/1654135984398PGKzz_JPEG/_92A2569_.jpg"
+    ],
+    "description": "",
+    "menus": [
+      {
+        "name": "카페라떼",
+        "price": "6,000"
+      }
+    ]
+  },
+  {
+    "nid": 1851645761,
+    "characteristic": "밀라플라",
+    "name": "밀라플라",
+    "coordinates": [36.8188218, 128.6184218],
+    "foodKind": "음식점",
+    "address": "경상북도 영주시 원당로19번길 30 밀라플라",
+    "phone": "0507-1355-1930",
+    "images": [
+      "https://ldb-phinf.pstatic.net/20230114_95/1673690340562l788b_JPEG/2222.jpg",
+      "https://ldb-phinf.pstatic.net/20230723_96/1690081783681XqsCh_JPEG/KakaoTalk_20230723_120728071_02.jpg",
+      "https://ldb-phinf.pstatic.net/20230723_123/16900817786548Wdw7_JPEG/KakaoTalk_20230723_120728071_01.jpg"
+    ],
+    "description": "",
+    "menus": [
+      {
+        "name": "팥빙수",
+        "price": "(옛날과일빙수)"
+      },
+      {
+        "name": "땡모반(수박쥬스)",
+        "price": "6,000"
+      },
+      {
+        "name": "크림",
+        "price": "아메리카노(아인슈페너)"
+      },
+      {
+        "name": "아메리카노(HOT)",
+        "price": "4,000"
+      },
+      {
+        "name": "콘파냐",
+        "price": "4,000"
+      },
+      {
+        "name": "마들렌",
+        "price": "1,500"
+      },
+      {
+        "name": "쿠키",
+        "price": "3,000"
+      },
+      {
+        "name": "빨미까레",
+        "price": "4,500"
+      },
+      {
+        "name": "크로플",
+        "price": "3,500"
+      },
+      {
+        "name": "크로아상",
+        "price": "3,500"
+      },
+      {
+        "name": "말차라떼",
+        "price": "5,000"
+      },
+      {
+        "name": "팥빙수",
+        "price": "15,000"
+      },
+      {
+        "name": "밀크티",
+        "price": "5,000"
+      },
+      {
+        "name": "자몽에이드",
+        "price": "5,500"
+      },
+      {
+        "name": "초코라떼",
+        "price": "5,000"
+      },
+      {
+        "name": "카페라떼",
+        "price": "4,500"
+      },
+      {
+        "name": "카푸치노",
+        "price": "4,500"
+      },
+      {
+        "name": "칵테일🍹",
+        "price": "6,900"
+      }
+    ]
+  },
+  {
+    "nid": 1734739819,
+    "characteristic": "카페선암리",
+    "name": "카페선암리",
+    "coordinates": [35.7550276, 127.0306042],
+    "foodKind": "음식점",
+    "address": "전라북도 김제시 금구면 선암5길 109 카페선암리",
+    "phone": "0507-1314-8321",
+    "images": [
+      "https://ldb-phinf.pstatic.net/20220826_72/1661490754370aPcVP_JPEG/KakaoTalk_Photo_2022-08-26-14-04-32_006.jpeg",
+      "https://ldb-phinf.pstatic.net/20230122_10/1674355117378B6Olm_JPEG/KakaoTalk_Photo_2022-10-18-17-10-33_002.jpeg",
+      "https://ldb-phinf.pstatic.net/20230122_29/1674355100835zqmpe_JPEG/KakaoTalk_Photo_2022-10-17-00-20-51.jpeg"
+    ],
+    "description": "",
+    "menus": [
+      {
+        "name": "아메리카노(HOT/ICE)",
+        "price": "6,000"
+      }
+    ]
+  },
+  {
+    "nid": 1530071767,
+    "characteristic": "컴다운",
+    "name": "컴다운",
+    "coordinates": [35.149827, 126.8621228],
+    "foodKind": "음식점",
+    "address": "광주광역시 서구 쌍촌로57번길 22-1 1층",
+    "phone": "0507-1489-8952",
+    "images": [
+      "https://ldb-phinf.pstatic.net/20230717_215/1689524696568HYH4B_JPEG/IMG_3135.jpeg",
+      "https://ldb-phinf.pstatic.net/20230717_2/16895245931456TutH_JPEG/IMG_3138.jpeg",
+      "https://ldb-phinf.pstatic.net/20230717_120/1689523147112I6Bfd_JPEG/IMG_3070.jpeg"
+    ],
+    "description": "",
+    "menus": []
+  },
+  {
+    "nid": 1873999090,
+    "characteristic": "카페 디아만테",
+    "name": "카페 디아만테",
+    "coordinates": [37.8511402, 128.860109],
+    "foodKind": "음식점",
+    "address": "강원특별자치도 강릉시 사천면 해안로 1183 1층 카페 디아만테",
+    "phone": "0507-1382-0566",
+    "images": [
+      "https://ldb-phinf.pstatic.net/20230712_297/1689169164266NllhG_JPEG/1689169154783.jpg",
+      "https://ldb-phinf.pstatic.net/20220526_264/1653552743363O8zwn_JPEG/DF19A0ED-E0F6-4AB6-83F4-7FE356DD51E3.jpeg",
+      "https://ldb-phinf.pstatic.net/20220526_98/1653545663095YGwW2_JPEG/FC3E77E2-DD21-427C-9FD0-B93D6C0EB20B.jpeg"
+    ],
+    "description": "",
+    "menus": [
+      {
+        "name": "아몬드크림라떼(디카페인변경가능)",
+        "price": "6,300"
+      },
+      {
+        "name": "에이드(자몽,레몬,망고,딸기,오렌지)",
+        "price": "6,500"
+      },
+      {
+        "name": "자몽허니블랙티",
+        "price": "6,000"
+      },
+      {
+        "name": "아포가토/초코수제생크림크로플",
+        "price": "5,800~7,000"
+      },
+      {
+        "name": "아메리카노",
+        "price": "4,800"
+      },
+      {
+        "name": "카페라떼",
+        "price": "5,500"
+      },
+      {
+        "name": "카푸치노",
+        "price": "5,500"
+      },
+      {
+        "name": "돌체라떼",
+        "price": "5,800"
+      },
+      {
+        "name": "바닐라라떼",
+        "price": "5,800"
+      }
+    ]
+  },
+  {
+    "nid": 1193083170,
+    "characteristic": "멍마르뜨",
+    "name": "멍마르뜨",
+    "coordinates": [36.2613038, 128.3142337],
+    "foodKind": "애견카페",
+    "address": "경상북도 구미시 선산읍 선산대로 1668-1 멍마르뜨",
+    "phone": "0507-1327-0541",
+    "images": [
+      "https://ldb-phinf.pstatic.net/20230419_241/16818746007768bARO_JPEG/IMG_20230315_140723_443.jpg",
+      "https://ldb-phinf.pstatic.net/20230615_175/1686818988222v5jRF_JPEG/20230615_174441.jpg",
+      "https://ldb-phinf.pstatic.net/20230615_17/1686818982142XvWI6_JPEG/20230615_174704.jpg"
+    ],
+    "description": "",
+    "menus": [
+      {
+        "name": "입장료+음료",
+        "price": "7,500"
+      }
+    ]
+  },
+  {
+    "nid": 1600562477,
+    "characteristic": "공들인하루",
+    "name": "공들인하루",
+    "coordinates": [37.4850779, 126.9264652],
+    "foodKind": "음식점",
+    "address": "서울특별시 관악구 관천로10길 20 1층",
+    "phone": "0507-1375-1306",
+    "images": [
+      "https://ldb-phinf.pstatic.net/20230808_136/169146186073443ucr_JPEG/IMG_1964.jpeg",
+      "https://ldb-phinf.pstatic.net/20211108_69/1636360294018xu9Qd_JPEG/kpeDaYTTkVgm8rEzGWfvu_as.jpeg.jpg",
+      "https://ldb-phinf.pstatic.net/20230808_143/1691461862931jH9zP_JPEG/8C56BE78-418F-4F01-ABDA-EEB2042B69BD-36751-00000742903918AE.jpeg"
+    ],
+    "description": "",
+    "menus": [
+      {
+        "name": "수제과일그릭요거트",
+        "price": "5,000"
+      },
+      {
+        "name": "건강타르트(수제간식)",
+        "price": "3,500"
+      },
+      {
+        "name": "과일가득크로플",
+        "price": "6,000"
+      },
+      {
+        "name": "베이글피자빵",
+        "price": "3,800"
+      },
+      {
+        "name": "고구마코코넛볼",
+        "price": "3,000"
+      },
+      {
+        "name": "컵빙수",
+        "price": "6,000"
+      },
+      {
+        "name": "토마토바질에이드",
+        "price": "6,000"
+      },
+      {
+        "name": "수박주스",
+        "price": "5,000"
+      },
+      {
+        "name": "에그마요샌드위치",
+        "price": "5,000"
+      }
+    ]
+  },
+  {
+    "nid": 1611050706,
+    "characteristic": "카카오롱",
+    "name": "카카오롱",
+    "coordinates": [37.0104095, 127.0985809],
+    "foodKind": "애견카페",
+    "address": "경기도 평택시 서재로 9 3층",
+    "phone": "010-8376-3212",
+    "images": [
+      "https://ldb-phinf.pstatic.net/20230827_10/1693114988398TktjH_JPEG/IMG_6174.jpeg",
+      "https://ldb-phinf.pstatic.net/20230714_86/1689313827860yYSbs_JPEG/IMG_6563.jpeg",
+      "https://ldb-phinf.pstatic.net/20230620_278/16872331024283Tksi_PNG/C98724F1-8D2F-4920-843E-C0EA0D825860.png"
+    ],
+    "description": "",
+    "menus": [
+      {
+        "name": "아메리카노",
+        "price": "6,500"
+      },
+      {
+        "name": "반려견",
+        "price": "입장료"
+      },
+      {
+        "name": "멍푸치노",
+        "price": "3,000"
+      }
+    ]
+  },
+  {
+    "nid": 1633903886,
+    "characteristic": "댕그르르 애견카페",
+    "name": "댕그르르 애견카페",
+    "coordinates": [37.0171659, 127.0932213],
+    "foodKind": "애견카페",
+    "address": "경기도 평택시 지제동삭2로 181-22 5층",
+    "phone": "0507-1377-6563",
+    "images": [
+      "https://ldb-phinf.pstatic.net/20230619_227/1687162670051ytO3G_JPEG/202B48BC-A410-44CE-8E1D-C7B971E2ACE3.jpeg",
+      "https://ldb-phinf.pstatic.net/20230619_30/1687162669960Bnod1_JPEG/IMG_5738.jpeg",
+      "https://ldb-phinf.pstatic.net/20230619_99/1687162669960RmEN8_JPEG/IMG_5742.jpeg"
+    ],
+    "description": "",
+    "menus": []
+  },
+  {
+    "nid": 1608999372,
+    "characteristic": "아띠라미",
+    "name": "아띠라미",
+    "coordinates": [36.9997652, 127.1136524],
+    "foodKind": "애견카페",
+    "address": "경기도 평택시 비전5로 20-10 2층 204호",
+    "phone": "0507-1392-7908",
+    "images": [
+      "https://ldb-phinf.pstatic.net/20230423_72/16822299003076f4mV_JPEG/%BE%C6%B6%EC%B6%F3%B9%CC_%B7%CE%B0%ED.jpg",
+      "https://ldb-phinf.pstatic.net/20230712_242/1689124036020BxWjS_PNG/%C0%CC%BF%EB%BC%F6%C4%A2_%C3%D6%C1%BE.png",
+      "https://ldb-phinf.pstatic.net/20230423_194/1682229817406UHcPj_JPEG/%C4%AB%C6%E4%B8%DE%B4%BA_%C3%D6%C1%BE.jpg"
+    ],
+    "description": "",
+    "menus": []
+  },
+  {
+    "nid": 1354550384,
+    "characteristic": "더157",
+    "name": "더157",
+    "coordinates": [37.0119602, 127.1320667],
+    "foodKind": "애견카페",
+    "address": "경기도 평택시 죽백2길 234-16 1층",
+    "phone": "0507-1361-8966",
+    "images": [
+      "https://ldb-phinf.pstatic.net/20230427_111/1682572898752QnT2F_JPEG/04CEDE26-D2C1-4AAA-8438-0ABF8FE95D5E.jpeg",
+      "https://ldb-phinf.pstatic.net/20230427_54/1682572853423W68ph_JPEG/8064EF80-31BC-4E60-924C-A90832C119D3.jpeg",
+      "https://ldb-phinf.pstatic.net/20230427_137/1682572853217Wmrtn_JPEG/AF2778AD-1CCF-45A5-B6C3-5F35FE0EA0EA.jpeg"
+    ],
+    "description": "",
+    "menus": [
+      {
+        "name": "아메리카노",
+        "price": "6,000"
+      },
+      {
+        "name": "멍푸치노",
+        "price": "3,000"
+      },
+      {
+        "name": "로투스크로플",
+        "price": "8,000"
+      },
+      {
+        "name": "크림크로플",
+        "price": "6,000"
+      },
+      {
+        "name": "크림치즈프레즐",
+        "price": "3,500"
+      }
+    ]
+  },
+  {
+    "nid": 1363175816,
+    "characteristic": "숲속앤독",
+    "name": "숲속앤독",
+    "coordinates": [36.9915352, 127.1271683],
+    "foodKind": "애견카페",
+    "address": "경기도 평택시 소사5길 113 4층 숲속앤독",
+    "phone": "010-2246-1411",
+    "images": [
+      "https://ldb-phinf.pstatic.net/20230829_94/1693317897231cyCwc_JPEG/CAP7962746874845822538.jpg",
+      "https://ldb-phinf.pstatic.net/20230829_90/1693317889550247iJ_JPEG/CAP666576936177582801.jpg",
+      "https://ldb-phinf.pstatic.net/20230829_299/1693317880218XW2AE_JPEG/CAP2595128372058729780.jpg"
+    ],
+    "description": "",
+    "menus": [
+      {
+        "name": "아메리카노",
+        "price": "5,000"
+      }
+    ]
+  },
+  {
+    "nid": 1662642638,
+    "characteristic": "놀다가개",
+    "name": "놀다가개",
+    "coordinates": [36.9462693, 127.0322469],
+    "foodKind": "애견카페",
+    "address": "경기도 평택시 팽성읍 두정3길 47 놀다가개",
+    "phone": "031-657-3879",
+    "images": [
+      "https://ldb-phinf.pstatic.net/20210705_39/1625454920668furFf_JPEG/i8_laQCiMIOR6vdsu8CH7jFN.jpeg.jpg",
+      "https://ldb-phinf.pstatic.net/20210705_242/1625454905010be9La_JPEG/SeEeiDpaPaPzcp_6oRZwT21h.jpeg.jpg",
+      "https://ldb-phinf.pstatic.net/20210705_256/1625454929716uv2Dt_JPEG/B0KMETfnr1a8K2-cdi_mULjT.jpeg.jpg"
+    ],
+    "description": "",
+    "menus": [
+      {
+        "name": "아메리카노",
+        "price": "5,000"
+      },
+      {
+        "name": "새우볶음밥",
+        "price": "7,000"
+      },
+      {
+        "name": "돈가스",
+        "price": "8,000"
+      },
+      {
+        "name": "떡볶이",
+        "price": "5,000"
+      },
+      {
+        "name": "모둠튀김",
+        "price": "8,000"
+      }
+    ]
+  },
+  {
+    "nid": 1284795640,
+    "characteristic": "펫피랜드",
+    "name": "펫피랜드",
+    "coordinates": [37.0883216, 127.1494158],
+    "foodKind": "애견카페",
+    "address": "경기도 안성시 원곡면 산직길 30-61",
+    "phone": "031-654-5234",
+    "images": [
+      "https://ldb-phinf.pstatic.net/20201126_213/16063906061958wwv8_JPEG/pEszqxFa-OWeUJVkvezpgpMG.JPG.jpg",
+      "https://ldb-phinf.pstatic.net/20201126_150/1606390547580sdJlm_JPEG/GFlOSSmH7-RoREKJwEkdlwU4.JPG.jpg",
+      "https://ldb-phinf.pstatic.net/20191115_236/1573803802187nH2GC_JPEG/vO9rM2TOAyopn-vyGTWaqv9A.jpg"
+    ],
+    "description": "",
+    "menus": []
+  },
+  {
+    "nid": 837875433,
+    "characteristic": "가평 애견동반 카페 아웃팅",
+    "name": "가평 애견동반 카페 아웃팅",
+    "coordinates": [37.7658013, 127.3634309],
+    "foodKind": "애견카페",
+    "address": "경기도 가평군 상면 수목원로 135 1층 카페아웃팅",
+    "phone": "0507-1431-2369",
+    "images": [
+      "https://ldb-phinf.pstatic.net/20181025_183/1540434837795c3c7K_JPEG/-Y87AcqJSzPnTUE7mS0oooaH.jpg",
+      "https://ldb-phinf.pstatic.net/20181025_113/1540434885847ldNXn_JPEG/pVl6joVKUH5tm4c9K1tODUT2.jpg",
+      "https://ldb-phinf.pstatic.net/20180726_165/15325914532478k14a_JPEG/image.jpg"
+    ],
+    "description": "",
+    "menus": [
+      {
+        "name": "아메리카노",
+        "price": "6,000"
+      },
+      {
+        "name": "캐모마일,페퍼민트,얼그레이,레몬스카이",
+        "price": "6,000"
+      },
+      {
+        "name": "딸기라떼",
+        "price": "8,500"
+      }
+    ]
+  },
+  {
+    "nid": 1291829789,
+    "characteristic": "포퍼피플 반려동물 수제간식 / 반려견 동반카페",
+    "name": "포퍼피플 반려동물 수제간식 / 반려견 동반카페",
+    "coordinates": [37.5037401, 126.753705],
+    "foodKind": "애견카페",
+    "address": "경기도 부천시 소향로 55-15 승재밀레니엄오피스텔 112호",
+    "phone": "0507-1311-5754",
+    "images": [
+      "https://ldb-phinf.pstatic.net/20220809_80/16600312891150kcf0_JPEG/KakaoTalk_20220801_113528222.jpg",
+      "https://ldb-phinf.pstatic.net/20230327_191/1679909073741Y6fWi_JPEG/KakaoTalk_20230327_182314616.jpg",
+      "https://ldb-phinf.pstatic.net/20230327_65/1679909073791tR7ug_JPEG/KakaoTalk_20230327_182314616_01.jpg"
+    ],
+    "description": "",
+    "menus": []
+  },
+  {
+    "nid": 1309640837,
+    "characteristic": "펠리스뻬로 파크",
+    "name": "펠리스뻬로 파크",
+    "coordinates": [37.1022175, 127.2113179],
+    "foodKind": "애견카페",
+    "address": "경기도 안성시 양성면 양성로 559 펠리스뻬로 파크",
+    "phone": "0507-1489-3387",
+    "images": [
+      "https://ldb-phinf.pstatic.net/20230809_283/16915776732485Qrx4_JPEG/GettyImages-jv12569121_%281%29.jpg",
+      "https://ldb-phinf.pstatic.net/20230324_231/1679592778628Qpfz9_JPEG/GettyImages-jv11360713.jpg",
+      "https://ldb-phinf.pstatic.net/20221011_154/1665415347266ncH6j_JPEG/KakaoTalk_20221011_002143037.jpg"
+    ],
+    "description": "",
+    "menus": [
+      {
+        "name": "시그니처",
+        "price": "9,500"
+      },
+      {
+        "name": "카페라떼",
+        "price": "9,000"
+      },
+      {
+        "name": "에이드",
+        "price": "9,500"
+      },
+      {
+        "name": "라떼",
+        "price": "9,000"
+      },
+      {
+        "name": "푸라푸치노",
+        "price": "9,500"
+      }
+    ]
+  },
+  {
+    "nid": 1437076220,
+    "characteristic": "포시즌애견테마파크",
+    "name": "포시즌애견테마파크",
+    "coordinates": [36.9669151, 127.2813574],
+    "foodKind": "애견카페",
+    "address": "경기도 안성시 서운면 바우덕이로 348-24",
+    "phone": "0507-1336-2251",
+    "images": [
+      "https://ldb-phinf.pstatic.net/20230404_87/1680571199548jG4db_JPEG/IMG_6547.jpeg",
+      "https://ldb-phinf.pstatic.net/20230529_21/1685353388821dwxr6_JPEG/IMG_1347.jpeg",
+      "https://ldb-phinf.pstatic.net/20221020_14/1666258937237jeWc1_JPEG/29742354-5EDD-4727-920C-609072B0D05D.jpeg"
+    ],
+    "description": "",
+    "menus": []
+  },
+  {
+    "nid": 1146428158,
+    "characteristic": "리앤드딩",
+    "name": "리앤드딩",
+    "coordinates": [37.152864, 127.1146351],
+    "foodKind": "애견카페",
+    "address": "경기도 화성시 장지남길 42 1층",
+    "phone": "010-2912-1523",
+    "images": [
+      "https://ldb-phinf.pstatic.net/20221129_175/1669693916317S1pH6_JPEG/1669693908302.jpg",
+      "https://ldb-phinf.pstatic.net/20221204_184/1670129544143WhpWj_JPEG/20221203_195449.jpg",
+      "https://ldb-phinf.pstatic.net/20221204_29/1670129558638aP5FA_JPEG/20221203_195511.jpg"
+    ],
+    "description": "",
+    "menus": [
+      {
+        "name": "보호자입장료(음료포함)",
+        "price": "9,000"
+      },
+      {
+        "name": "반려견입장료",
+        "price": "4,000"
+      },
+      {
+        "name": "다둥이가족(셋째부터)",
+        "price": "3,000"
+      }
+    ]
+  },
+  {
+    "nid": 1208224904,
+    "characteristic": "둘리펫츠",
+    "name": "둘리펫츠",
+    "coordinates": [36.9560244, 126.9705248],
+    "foodKind": "애견카페",
+    "address": "경기도 평택시 현덕면 덕목5길 106-31 둘리펫츠",
+    "phone": "0507-1374-3465",
+    "images": [
+      "https://ldb-phinf.pstatic.net/20221003_296/1664766715776hXL8O_JPEG/KakaoTalk_20220823_080150182_21.jpg",
+      "https://ldb-phinf.pstatic.net/20221031_184/1667226961038Kf9Gl_JPEG/20221012_073749.jpg",
+      "https://ldb-phinf.pstatic.net/20221031_106/1667226961150jg4zL_JPEG/20221012_073810.jpg"
+    ],
+    "description": "",
+    "menus": [
+      {
+        "name": "치킨텐더감자튀김",
+        "price": "15,000"
+      },
+      {
+        "name": "치킨머쉬룸파스타",
+        "price": "19,000"
+      },
+      {
+        "name": "해산물토마토파스타",
+        "price": "21,000"
+      },
+      {
+        "name": "차돌튀김떡볶이",
+        "price": "25,000"
+      },
+      {
+        "name": "해물크림떡볶이",
+        "price": "22,000"
+      },
+      {
+        "name": "리버런플레이트",
+        "price": "20,000"
+      },
+
+      {
+        "name": "애플유자티",
+        "price": "7,500"
+      },
+      {
+        "name": "펫푸치노",
+        "price": "4,500"
+      }
+    ]
+  },
+  {
+    "nid": 1496352530,
+    "characteristic": "멍선생 애견카페",
+    "name": "멍선생 애견카페",
+    "coordinates": [37.1517801, 127.1260203],
+    "foodKind": "애견카페",
+    "address": "경기도 화성시 경기동로 493-18 멍선생 애견카페 & 셀프바베큐장",
+    "phone": "0507-1440-8960",
+    "images": [
+      "https://ldb-phinf.pstatic.net/20230614_228/1686725830545zl4uH_PNG/%C5%B0%C1%EE%C1%B8%BE%C8%B3%BB3.png",
+      "https://ldb-phinf.pstatic.net/20230614_168/1686725826648WGykI_PNG/%C5%B0%C1%EE%C1%B8%BE%C8%B3%BB_2.png",
+      "https://ldb-phinf.pstatic.net/20230614_194/1686725824044sf9zS_PNG/%C5%B0%C1%EE%C1%B8_%BE%C8%B3%BB.png"
+    ],
+    "description": "",
+    "menus": []
+  },
+  {
+    "nid": 1060554610,
+    "characteristic": "테일45",
+    "name": "테일45",
+    "coordinates": [37.2351117, 127.1168367],
+    "foodKind": "애견카페",
+    "address": "경기도 용인시 기흥구 고매로43번길 47",
+    "phone": "0507-1387-4602",
+    "images": [
+      "https://ldb-phinf.pstatic.net/20230713_141/1689259240779SEfot_PNG/KakaoTalk_20230704_223500015.png",
+      "https://ldb-phinf.pstatic.net/20230713_164/16892590955488W3Kd_JPEG/KakaoTalk_20230708_143235333_02.jpg",
+      "https://ldb-phinf.pstatic.net/20230713_142/1689259095622WO4TP_JPEG/KakaoTalk_20230708_143235333.jpg"
+    ],
+    "description": "",
+    "menus": []
+  },
+  {
+    "nid": 1729293141,
+    "characteristic": "커피먹고멍멍",
+    "name": "커피먹고멍멍",
+    "coordinates": [37.1658762, 127.2405278],
+    "foodKind": "애견카페",
+    "address": "경기도 용인시 처인구 이동읍 이원로 517 커피먹고멍멍",
+    "phone": "0507-1340-5987",
+    "images": [
+      "https://ldb-phinf.pstatic.net/20230303_182/1677841845068pyEml_JPEG/KakaoTalk_20230303_200854664_02.jpg",
+      "https://ldb-phinf.pstatic.net/20220915_186/1663231957553SWgjJ_JPEG/KakaoTalk_20220915_163904066.jpg",
+      "https://ldb-phinf.pstatic.net/20230530_63/1685433127298V0RJi_JPEG/KakaoTalk_20230530_165033884_02.jpg"
+    ],
+    "description": "",
+    "menus": [
+      {
+        "name": "어린이바베큐1인분(13세까지)",
+        "price": "15,000"
+      },
+      {
+        "name": "개별(단독)운동장/예약필수/1시간당",
+        "price": "10,000"
+      },
+      {
+        "name": "데이케어사전문의필수",
+        "price": "15,000"
+      },
+      {
+        "name": "아메리카노",
+        "price": "5,000"
+      },
+      {
+        "name": "자두에이드",
+        "price": "7,000"
+      }
+    ]
+  },
+  {
+    "nid": 1204410020,
+    "characteristic": "딩디리바바",
+    "name": "딩디리바바",
+    "coordinates": [37.2287464, 127.0731317],
+    "foodKind": "애견카페",
+    "address": "경기도 화성시 삼성1로6길 29-9 전체",
+    "phone": "0507-1856-7240",
+    "images": [
+      "https://ldb-phinf.pstatic.net/20220628_75/1656418482748yC1dI_JPEG/KakaoTalk_20220628_211407412.jpg",
+      "https://ldb-phinf.pstatic.net/20230425_162/16824216290013zPaz_JPEG/KakaoTalk_20230425_160841502.jpg",
+      "https://ldb-phinf.pstatic.net/20230425_270/1682421641875WHGgN_JPEG/KakaoTalk_20230425_160841502_01.jpg"
+    ],
+    "description": "",
+    "menus": [
+      {
+        "name": "[운동장+실내]",
+        "price": "변동가격(업주문의)"
+      },
+      {
+        "name": "[수영+운동장+셀프목욕]",
+        "price": "변동가격(업주문의)"
+      },
+      {
+        "name": "[셀프목욕]",
+        "price": "변동가격(업주문의)"
+      },
+      {
+        "name": "소형견(10kg미만)",
+        "price": "10,000"
+      },
+      {
+        "name": "중형견(17kg미만)",
+        "price": "20,000"
+      },
+      {
+        "name": "대형견(17kg이상)",
+        "price": "30,000"
+      }
+    ]
+  },
+  {
+    "nid": 1932308758,
+    "characteristic": "날아라멍멍",
+    "name": "날아라멍멍",
+    "coordinates": [36.8051814, 127.0916734],
+    "foodKind": "애견카페",
+    "address": "",
+    "phone": "0507-1474-3540",
+    "images": [
+      "https://ldb-phinf.pstatic.net/20210912_282/1631433916933ponfW_JPEG/Pm3MAWITjsgi9m9rP6yDcsmy.jpg",
+      "https://ldb-phinf.pstatic.net/20210912_97/1631433917187a0M3M_JPEG/y2grhew-yS-QcbIM6_IcmJq_.jpg",
+      "https://ldb-phinf.pstatic.net/20210912_27/1631433919911v2chO_JPEG/Qhr2ApeYK35H9G6Mjr-aoXk9.jpg"
+    ],
+    "description": "",
+    "menus": [
+      {
+        "name": "반려견입장료",
+        "price": "5,000"
+      },
+      {
+        "name": "사람입장료",
+        "price": "5,000"
+      },
+      {
+        "name": "어묵떡볶이",
+        "price": "4,500"
+      },
+      {
+        "name": "치킨마요덮밥",
+        "price": "5,000"
+      },
+      {
+        "name": "신라면/튀김우동",
+        "price": "3,000"
+      },
+      {
+        "name": "스팸김치덮밥",
+        "price": "5,000"
+      },
+      {
+        "name": "윈터뱅쇼",
+        "price": "2,800"
+      },
+      {
+        "name": "고기만두,김치만두",
+        "price": "3,500"
+      },
+      {
+        "name": "김치치즈주먹밥",
+        "price": "2,500"
+      },
+      {
+        "name": "추억의핫도그",
+        "price": "2,500"
+      },
+      {
+        "name": "오징어어묵바",
+        "price": "3,000"
+      },
+      {
+        "name": "아메리카노",
+        "price": "2,500"
+      },
+      {
+        "name": "날멍밀크티",
+        "price": "2,800"
+      },
+      {
+        "name": "딸기라떼",
+        "price": "2,800"
+      },
+      {
+        "name": "아샷추",
+        "price": "2,800"
+      },
+      {
+        "name": "초코라떼",
+        "price": "2,800"
+      },
+      {
+        "name": "골드자몽주스",
+        "price": "2,800"
+      }
+    ]
+  },
+  {
+    "nid": 1250795204,
+    "characteristic": "펫프닝 타운",
+    "name": "펫프닝 타운",
+    "coordinates": [36.8314203, 127.1870353],
+    "foodKind": "애견카페",
+    "address": "충청남도 천안시 동남구 각원사길 150 1층",
+    "phone": "070-8260-1233",
+    "images": [
+      "https://ldb-phinf.pstatic.net/20230331_267/1680254481825aoD6R_JPEG/25E24AFC-69E5-43C5-AF16-7332D637940F.jpeg",
+      "https://ldb-phinf.pstatic.net/20230417_144/1681722235133htamz_JPEG/1681374812373-7.jpg",
+      "https://ldb-phinf.pstatic.net/20230417_149/1681722235041azdhL_JPEG/20230404_163657.jpg"
+    ],
+    "description": "",
+    "menus": [
+      {
+        "name": "입장료",
+        "price": "0"
+      },
+      {
+        "name": "아메리카노(HOT)",
+        "price": "7,000"
+      },
+      {
+        "name": "아메리카노(ICE)",
+        "price": "7,500"
+      },
+      {
+        "name": "카페라떼(HOT)",
+        "price": "8,000"
+      },
+      {
+        "name": "카페라떼(ICE)",
+        "price": "8,500"
+      },
+      {
+        "name": "카페모카(HOT)",
+        "price": "8,000"
+      },
+      {
+        "name": "카페모카(ICE)",
+        "price": "8,500"
+      },
+      {
+        "name": "바닐라라떼(HOT)",
+        "price": "8,000"
+      },
+      {
+        "name": "바닐라라떼(ICE)",
+        "price": "8,500"
+      },
+      {
+        "name": "카라멜마끼아또(HOT)",
+        "price": "8,000"
+      },
+      {
+        "name": "아이스티",
+        "price": "7,000"
+      },
+      {
+        "name": "아이스티(샷추가)",
+        "price": "8,000"
+      }
+    ]
+  },
+  {
+    "nid": 37072514,
+    "characteristic": "컨츄리독힐링파크",
+    "name": "컨츄리독힐링파크",
+    "coordinates": [37.3317759, 127.2370887],
+    "foodKind": "애견카페",
+    "address": "경기도 용인시 처인구 모현읍 월촌로 76-1 컨츄리독힐링파크",
+    "phone": "031-333-2633",
+    "images": [
+      "https://ldb-phinf.pstatic.net/20220315_273/1647322427444HyS0U_JPEG/1617190436559-2.jpg",
+      "https://ldb-phinf.pstatic.net/20220315_124/1647348465322ysBrq_JPEG/IMG_20200711_223320_732.jpg",
+      "https://ldb-phinf.pstatic.net/20220315_7/1647348444059burPN_JPEG/IMG_20201008_190055_004.jpg"
+    ],
+    "description": "",
+    "menus": []
   }
 ]
