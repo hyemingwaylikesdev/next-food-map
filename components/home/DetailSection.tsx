@@ -6,6 +6,7 @@ import type { Store } from '../../types/store';
 
 import DetailContent from './DetailContent';
 import DetailHeader from './DetailHeader';
+import StoreList from './StoreList';
 
 import styles from '../../styles/detail.module.scss';
 
@@ -19,12 +20,14 @@ const DetailSection = () => {
         currentStore ? styles.selected : ''
       }`}
     >
+      {/* 여기에 리스트 넣기 */}
       <DetailHeader
         currentStore={currentStore}
         expanded={expanded}
         onClickArrow={() => setExpanded(!expanded)}
       />
       <DetailContent currentStore={currentStore} expanded={expanded} />
+      {/* <StoreList /> */}
     </div>
   );
 };

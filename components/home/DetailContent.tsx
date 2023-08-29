@@ -38,13 +38,9 @@ const DetailContent = ({ currentStore, expanded }: Props) => {
       </div>
       {expanded && (
         <>
-          <div className={styles.description}>
-            <h2>설명</h2>
-            <p>{currentStore.description}</p>
-          </div>
           <hr />
           <div className={styles.basicInfo}>
-            <h2>기본 정보</h2>
+            <h2>정보</h2>
             <div className="address">
               <IoLocationOutline size={20} />
               <span>{currentStore.address || '정보가 없습니다.'}</span>
