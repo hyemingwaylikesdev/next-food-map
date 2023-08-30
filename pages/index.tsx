@@ -42,8 +42,11 @@ const Home: NextPage<Props> = ({ stores }) => {
 };
 export default Home;
 
+//백엔드와 프론트의 결합도를 느슨하게 만듦
 export async function getStaticProps() {
-  const stores = (await import('../public/stores.json')).default;
+  const stores = await fetch(
+    `${process.env.NEXT_PUBLIC_API_URL}/api/stores`
+  ).then((response) => response.json());
 
   return {
     props: { stores },
