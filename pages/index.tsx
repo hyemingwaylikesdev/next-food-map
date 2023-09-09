@@ -24,6 +24,9 @@ const Home: NextPage<Props> = ({ stores }) => {
         title="반려동물 동반 식당, 카페 지도"
         description="반려동물과 함께할 수 있는 식당을 소개해드려요🙌"
         canonical="https://mong-sik-hyemingwaylikesdev.vercel.app"
+        openGraph={{
+          url: `https://mong-sik-hyemingwaylikesdev.vercel.app`,
+        }}
       />
       <HomeHeader />
       <main

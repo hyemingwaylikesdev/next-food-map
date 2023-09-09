@@ -30,6 +30,9 @@ const StoreDetail: NextPage<Props> = ({ store }) => {
         title={store.name}
         description="상세 페이지입니다"
         canonical={`https://mong-sik-hyemingwaylikesdev.vercel.app/feedback${store.name}`}
+        openGraph={{
+          url: `https://mong-sik-hyemingwaylikesdev.vercel.app/feedback${store.name}`,
+        }}
       />
       <div className={`${styles.detailSection} ${styles.expanded}`}>
         <DetailHeader
